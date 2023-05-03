@@ -1,9 +1,22 @@
 * {
+    /* margin: 0; */
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
 }
+body {
+    background-color: #171401;
+}
+.background-svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+}
 
 .App {
+    position: relative;
+    z-index: 10;
     display: flex;
     justify-content:space-between;
     align-items:normal;
@@ -11,7 +24,7 @@
     margin: 0 auto;
     flex-direction: column;
     margin-top: 15vh;
-    min-height: 500px;
+    min-height: 520px;
     background: #00FFA0;
     padding: 1rem;
     border-radius: 1rem;
