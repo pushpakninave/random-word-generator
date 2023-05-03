@@ -1238,7 +1238,7 @@ const WordsJson = [
     },
     {
       word: "antiquity",
-      definition: "quality of being very old; ancient times; °í´ë",
+      definition: "quality of being very old; ancient times",
       Barron4841: "Barron4841",
     },
     {
@@ -5244,7 +5244,7 @@ const WordsJson = [
     {
       word: "cordon",
       definition:
-        "extended line of men or fortifications to prevent access or egress;   (¾î±ú¿¡¼­ °Üµå¶û ¹ØÀ¸·Î °ÉÄ¡´Â) Àå½Ä ¸®º»; V.",
+        "extended line of men or fortifications to prevent access or egress",
       Barron4841: "Barron4841",
     },
     {
@@ -8738,7 +8738,7 @@ const WordsJson = [
     {
       word: "executor",
       definition:
-        "person designated to execute the terms of a will; ¿¹¼ú ÀÛÇ°ÀÇ Á¦ÀÛÀÚ",
+        "person designated to execute the terms of a will",
       Barron4841: "Barron4841",
     },
     {
@@ -11405,7 +11405,7 @@ const WordsJson = [
     {
       word: "hamper",
       definition:
-        "obstruct; prevent the free movement of; N: ½Ä·áÇ°ÀÌ³ª ÀÇº¹ µîÀ» ´ã´Â ¹Ù±¸´Ï",
+        "obstruct; prevent the free movement of",
       Barron4841: "Barron4841",
     },
     {
@@ -17548,7 +17548,7 @@ const WordsJson = [
     {
       word: "parry",
       definition:
-        "ward off a blow; deflect; Ex. He parried the unwelcome question very skillfully; N. CF. ¸·´Â´Ù´Â °³³äÀÌ ¾Æ´Ô",
+        "ward off a blow; deflect; Ex. He parried the unwelcome question very skillfully",
       Barron4841: "Barron4841",
     },
     {
@@ -21798,7 +21798,7 @@ const WordsJson = [
     {
       word: "scotch",
       definition:
-        "stamp out  (put an end to); thwart; hinder; Ex. scotch the rumor; CF. cut; CF. È°µ¿À» ÁÙÀÌ´Â ÀÇ¹Ì",
+        "stamp out  (put an end to); thwart; hinder; Ex. scotch the rumor; CF. cut",
       Barron4841: "Barron4841",
     },
     {
