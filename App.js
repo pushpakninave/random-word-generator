@@ -1127,12 +1127,12 @@ const WordsJson = [
     },
     {
       word: "anodyne",
-      definition: "drug that relieves pain or trouble; Áø?",
+      definition: "drug that relieves pain or trouble",
       Barron4841: "",
     },
     {
-      word: "ëÁ¦; opiate; ADJ. Ex. anodyne statement",
-      definition: "Barron4841",
+      word: "opiate",
+      definition: "ADJ. Ex. anodyne statement",
       Barron4841: "",
     },
     {
@@ -7269,7 +7269,7 @@ const WordsJson = [
     {
       word: "dominate",
       definition:
-        "control; rule; enjoy a commanding position in; overlook from a height; ³»·Á´Ùº¸´Ù",
+        "control; rule; enjoy a commanding position in; overlook from a height",
       Barron4841: "Barron4841",
     },
     {
@@ -10433,7 +10433,7 @@ const WordsJson = [
     {
       word: "gall",
       definition:
-        "bitterness of feeling; nerve; effrontery; ´ãÁó  (bile); CF. gall bladder",
+        "bitterness of feeling; nerve; effrontery; CF. gall bladder",
       Barron4841: "Barron4841",
     },
     {
@@ -18781,7 +18781,7 @@ const WordsJson = [
     {
       word: "precipitant",
       definition:
-        "something that causes a substance in a chemical solution to separate out in solid form; Ä§ÀüÁ¦; OP. solvent",
+        "something that causes a substance in a chemical solution to separate out in solid form; OP. solvent",
       Barron4841: "Barron4841",
     },
     {
@@ -19875,7 +19875,7 @@ const WordsJson = [
     {
       word: "squelch",
       definition:
-        "produce a splashing sound   (when stepping through mud); crush; squash; CF. ÁøÈëÀ» À§¿¡¼­ ¹âÀ» ¶§",
+        "produce a splashing sound   (when stepping through mud); crush; squash",
       Barron4841: "Barron4841",
     },
     {
@@ -23893,7 +23893,7 @@ const WordsJson = [
     {
       word: "tepid",
       definition:
-        "lukewarm; slightly warm; ¹ÌÁö±ÙÇÑ; half-hearted; not eager; Ex. tepid reaction to the new film; Ex. tepid supporter",
+        "lukewarm; slightly warm; half-hearted; not eager; Ex. tepid reaction to the new film; Ex. tepid supporter",
       Barron4841: "Barron4841",
     },
     {
