@@ -137,7 +137,7 @@ const WordsJson = [
     {
       word: "abstain",
       definition:
-        "refrain; withhold from participation; intentionally not use one'vote; ±â±ÇÇÏ´Ù",
+        "refrain; withhold from participation; intentionally not use onevote; ±â±ÇÇÏ´Ù",
       Barron4841: "Barron4841",
     },
     {
@@ -432,7 +432,7 @@ const WordsJson = [
     {
       word: "address",
       definition:
-        "direct a speech to; speak to; deal with or discuss; direct one'efforts or attention to; make with a destination; N: formal speech",
+        "direct a speech to; speak to; deal with or discuss; direct oneefforts or attention to; make with a destination; N: formal speech",
       Barron4841: "Barron4841",
     },
     {
@@ -786,7 +786,7 @@ const WordsJson = [
     {
       word: "aloof",
       definition:
-        "apart; not open in one'relationship with other people; reserved; ADV.",
+        "apart; not open in onerelationship with other people; reserved; ADV.",
       Barron4841: "Barron4841",
     },
     {
@@ -958,7 +958,7 @@ const WordsJson = [
     {
       word: "amplify",
       definition:
-        "increase in size or effect; expand; broaden or clarify by expanding; intensify; make stronger; Ex. amplify one'remarks with a graph",
+        "increase in size or effect; expand; broaden or clarify by expanding; intensify; make stronger; Ex. amplify oneremarks with a graph",
       Barron4841: "Barron4841",
     },
     {
@@ -1270,7 +1270,7 @@ const WordsJson = [
     },
     {
       word: "ape",
-      definition: "imitate or mimic   (a person'behavior or manner)",
+      definition: "imitate or mimic   (a personbehavior or manner)",
       Barron4841: "Barron4841",
     },
     {
@@ -1449,7 +1449,7 @@ const WordsJson = [
     {
       word: "appropriate",
       definition:
-        "acquire; take possession of for one'own use without permission; set aside for a particular purpose; allocate; CF. misappropriate",
+        "acquire; take possession of for oneown use without permission; set aside for a particular purpose; allocate; CF. misappropriate",
       Barron4841: "Barron4841",
     },
     {
@@ -1616,7 +1616,7 @@ const WordsJson = [
     {
       word: "arrogance",
       definition:
-        "pride; haughtiness; ADJ. arrogant: unpleasantly self-important   (with a strong confidence in one'own importance and a lack of respect for other people)",
+        "pride; haughtiness; ADJ. arrogant: unpleasantly self-important   (with a strong confidence in oneown importance and a lack of respect for other people)",
       Barron4841: "Barron4841",
     },
     {
@@ -1750,7 +1750,7 @@ const WordsJson = [
     {
       word: "assert",
       definition:
-        "state strongly or positively; demand recognition of   (rights, claims, etc.); make a claim to   (by forceful action); Ex. assert one'independence",
+        "state strongly or positively; demand recognition of   (rights, claims, etc.); make a claim to   (by forceful action); Ex. assert oneindependence",
       Barron4841: "Barron4841",
     },
     {
@@ -1785,7 +1785,7 @@ const WordsJson = [
     {
       word: "assurance",
       definition:
-        "firm statement that something is certainly true; promise or pledge; certainty; confidence in one'own ability; self-confidence; Ex. In spite of all his assurances, he did not come back; Ex. assurance of his loyalty; Ex. The teacher lacked assurance in fron of his class; V. assure; tell firmly with confidence; ensure; make   (something) certain to heappen; make   (someone) feel sure; give confidence to; ADJ. assured: self-assured; confident in one'own ability; showing certainty",
+        "firm statement that something is certainly true; promise or pledge; certainty; confidence in oneown ability; self-confidence; Ex. In spite of all his assurances, he did not come back; Ex. assurance of his loyalty; Ex. The teacher lacked assurance in fron of his class; V. assure; tell firmly with confidence; ensure; make   (something) certain to heappen; make   (someone) feel sure; give confidence to; ADJ. assured: self-assured; confident in oneown ability; showing certainty",
       Barron4841: "Barron4841",
     },
     {
@@ -1817,7 +1817,7 @@ const WordsJson = [
     {
       word: "astute",
       definition:
-        "wise; shrewd; keen; seeing quickly something that is to one'advantage",
+        "wise; shrewd; keen; seeing quickly something that is to oneadvantage",
       Barron4841: "Barron4841",
     },
     {
@@ -1924,7 +1924,7 @@ const WordsJson = [
     },
     {
       word: "aureole",
-      definition: "sun'corona; halo; bright circle of light",
+      definition: "suncorona; halo; bright circle of light",
       Barron4841: "Barron4841",
     },
     {
@@ -1941,7 +1941,7 @@ const WordsJson = [
     {
       word: "austere",
       definition:
-        "forbiddingly stern; ascetic; without comfort or enjoyment; severely simple and unornamented; Ex. a monk'austere life; Ex. austere grandeur of the cathedral; N. austerity",
+        "forbiddingly stern; ascetic; without comfort or enjoyment; severely simple and unornamented; Ex. a monkaustere life; Ex. austere grandeur of the cathedral; N. austerity",
       Barron4841: "Barron4841",
     },
     {
@@ -1952,7 +1952,7 @@ const WordsJson = [
     {
       word: "authoritarian",
       definition:
-        "subordinating the individual to the state; completely dominating another'will; Ex. authoritarian regime/father",
+        "subordinating the individual to the state; completely dominating anotherwill; Ex. authoritarian regime/father",
       Barron4841: "Barron4841",
     },
     {
@@ -2163,7 +2163,7 @@ const WordsJson = [
     {
       word: "banal",
       definition:
-        "hackneyed; commonplace; trite; lacking originality; clich'ed",
+        "hackneyed; commonplace; trite; lacking originality; cliched",
       Barron4841: "Barron4841",
     },
     {
@@ -2201,7 +2201,7 @@ const WordsJson = [
     },
     {
       word: "unregenerate",
-      definition: "making no attempt to change one'bad practices",
+      definition: "making no attempt to change onebad practices",
       Barron4841: "Barron4841",
     },
     {
@@ -2324,7 +2324,7 @@ const WordsJson = [
     {
       word: "begrudge",
       definition:
-        "envy; give or allow unwillingly; grudge; Ex. We shouldn't begrudge him his success.",
+        "envy; give or allow unwillingly; grudge; Ex. We shouldnt begrudge him his success.",
       Barron4841: "Barron4841",
     },
     {
@@ -2585,7 +2585,7 @@ const WordsJson = [
     {
       word: "intolerant",
       definition:
-        "not willing to accept ways of thinking different from one'own; CF. tolerant; CF. tolerate",
+        "not willing to accept ways of thinking different from oneown; CF. tolerant; CF. tolerate",
       Barron4841: "Barron4841",
     },
     {
@@ -2665,7 +2665,7 @@ const WordsJson = [
       Barron4841: "Barron4841",
     },
     {
-      word: "blas'e",
+      word: "blase",
       definition: "bored with pleasure or dissipation; uninterested or bored",
       Barron4841: "Barron4841",
     },
@@ -2992,7 +2992,7 @@ const WordsJson = [
     {
       word: "graze",
       definition:
-        "  (of an animal) feed on growing grass; cause   (an animal) to feed on grass; scrape   (esp. the skin) or touch lightly in passing; brush; Ex. We can't graze the cattle till summer; N: surface wound",
+        "  (of an animal) feed on growing grass; cause   (an animal) to feed on grass; scrape   (esp. the skin) or touch lightly in passing; brush; Ex. We cant graze the cattle till summer; N: surface wound",
       Barron4841: "Barron4841",
     },
     {
@@ -3025,7 +3025,7 @@ const WordsJson = [
     {
       word: "buffet",
       definition:
-        "strike forcefully; slap; batter; knock out; N: table with food set out for people to server themselves; meal at which people help themselves to food that'been set",
+        "strike forcefully; slap; batter; knock out; N: table with food set out for people to server themselves; meal at which people help themselves to food thatbeen set",
       Barron4841: "Barron4841",
     },
     {
@@ -3226,7 +3226,7 @@ const WordsJson = [
     {
       word: "cameo",
       definition:
-        "shell or jewel carved in relief; star'special appearance in a minor role in a film",
+        "shell or jewel carved in relief; starspecial appearance in a minor role in a film",
       Barron4841: "Barron4841",
     },
     {
@@ -3381,7 +3381,7 @@ const WordsJson = [
     {
       word: "sway",
       definition:
-        "swing from side to side; influence   (someone) to change one'opinion; N.",
+        "swing from side to side; influence   (someone) to change oneopinion; N.",
       Barron4841: "Barron4841",
     },
     {
@@ -3599,7 +3599,7 @@ const WordsJson = [
     },
     {
       word: "afterlife",
-      definition: "life after death; later part of one'life",
+      definition: "life after death; later part of onelife",
       Barron4841: "Barron4841",
     },
     {
@@ -4047,9 +4047,9 @@ const WordsJson = [
       Barron4841: "Barron4841",
     },
     {
-      word: "clich'e",
+      word: "cliche",
       definition:
-        "phrase dulled in meaning by repetition; platitude; ADJ. clich'ed",
+        "phrase dulled in meaning by repetition; platitude; ADJ. cliched",
       Barron4841: "Barron4841",
     },
     {
@@ -4412,7 +4412,7 @@ const WordsJson = [
     {
       word: "compelling",
       definition:
-        "overpowering; irresistible in effect; holding one'attention; that compels one to do something; Ex. a compelling adventure story; V. compel",
+        "overpowering; irresistible in effect; holding oneattention; that compels one to do something; Ex. a compelling adventure story; V. compel",
       Barron4841: "Barron4841",
     },
     {
@@ -4502,7 +4502,7 @@ const WordsJson = [
     },
     {
       word: "comport",
-      definition: "bear one'self; behave; Ex. comport oneself; N. comportment",
+      definition: "bear oneself; behave; Ex. comport oneself; N. comportment",
       Barron4841: "Barron4841",
     },
     {
@@ -4550,7 +4550,7 @@ const WordsJson = [
     {
       word: "compromise",
       definition:
-        "adjust or settle by making mutual concessions; endanger the interests or reputation of; put into danger, disrepute, or a dishonorable position; Ex. compromise one'principle; N.",
+        "adjust or settle by making mutual concessions; endanger the interests or reputation of; put into danger, disrepute, or a dishonorable position; Ex. compromise oneprinciple; N.",
       Barron4841: "Barron4841",
     },
     {
@@ -4587,7 +4587,7 @@ const WordsJson = [
     {
       word: "conceit",
       definition:
-        "vanity or self-love; too high opinion of one'own value; extravagant metaphor   (in poetry)",
+        "vanity or self-love; too high opinion of oneown value; extravagant metaphor   (in poetry)",
       Barron4841: "Barron4841",
     },
     {
@@ -4711,7 +4711,7 @@ const WordsJson = [
     },
     {
       word: "confidant  (confidante)",
-      definition: "trusted friend   (to whom one tells one'secret)",
+      definition: "trusted friend   (to whom one tells onesecret)",
       Barron4841: "Barron4841",
     },
     {
@@ -4723,7 +4723,7 @@ const WordsJson = [
     {
       word: "confidence",
       definition:
-        "self-assurance; calm unworried feeling based on a strong belief in one'abilities; strong belief in the ability of a person or plan; trust or faith in a person or thing; something confided; secret; Ex. confidence in your ability; Ex. I'm telling you this in confidence; Ex. exchange confidences about their boyfriends; ADJ. confident",
+        "self-assurance; calm unworried feeling based on a strong belief in oneabilities; strong belief in the ability of a person or plan; trust or faith in a person or thing; something confided; secret; Ex. confidence in your ability; Ex. Im telling you this in confidence; Ex. exchange confidences about their boyfriends; ADJ. confident",
       Barron4841: "Barron4841",
     },
     {
@@ -4780,7 +4780,7 @@ const WordsJson = [
     {
       word: "congenial",
       definition:
-        "pleasant; friendly; in agreement with one'tastes and nature; Ex. congenial weather",
+        "pleasant; friendly; in agreement with onetastes and nature; Ex. congenial weather",
       Barron4841: "Barron4841",
     },
     {
@@ -4888,7 +4888,7 @@ const WordsJson = [
     {
       word: "consecrate",
       definition:
-        "dedicate; sanctify; declare as sacred; Ex. consecrate one'life to helping the poor",
+        "dedicate; sanctify; declare as sacred; Ex. consecrate onelife to helping the poor",
       Barron4841: "Barron4841",
     },
     {
@@ -5279,7 +5279,7 @@ const WordsJson = [
     {
       word: "corpus",
       definition:
-        "collection   (of writings or information); Ex. the corpus of Shakespear'works; Cf. corpse",
+        "collection   (of writings or information); Ex. the corpus of Shakespearworks; Cf. corpse",
       Barron4841: "Barron4841",
     },
     {
@@ -5359,7 +5359,7 @@ const WordsJson = [
     {
       word: "coup",
       definition:
-        "highly successful action or sudden attack; coup  (s) d''etat; CF. coup de gr^ace: deathblow or shot which kills",
+        "highly successful action or sudden attack; coup  (s) detat; CF. coup de gr^ace: deathblow or shot which kills",
       Barron4841: "Barron4841",
     },
     {
@@ -5392,7 +5392,7 @@ const WordsJson = [
     {
       word: "covetous",
       definition:
-        "avaricious; desirous of   (someone else'possessions); V. covet: desire eagerly   (someone else'possessions)",
+        "avaricious; desirous of   (someone elsepossessions); V. covet: desire eagerly   (someone elsepossessions)",
       Barron4841: "Barron4841",
     },
     {
@@ -5450,7 +5450,7 @@ const WordsJson = [
     {
       word: "credulity",
       definition:
-        "belief on slight evidence; gullibility; naivet'e; ADJ. credulous",
+        "belief on slight evidence; gullibility; naivete; ADJ. credulous",
       Barron4841: "Barron4841",
     },
     {
@@ -5668,7 +5668,7 @@ const WordsJson = [
     {
       word: "daub",
       definition:
-        "smear   (as with paint); cover with something sticky; Ex. daub one'clothes with mud/paint; N: small bit of sticky substance; Ex. a daub of paint",
+        "smear   (as with paint); cover with something sticky; Ex. daub oneclothes with mud/paint; N: small bit of sticky substance; Ex. a daub of paint",
       Barron4841: "Barron4841",
     },
     {
@@ -5732,7 +5732,7 @@ const WordsJson = [
     },
     {
       word: "kneel",
-      definition: "go down on one'knee  (s)",
+      definition: "go down on oneknee  (s)",
       Barron4841: "Barron4841",
     },
     {
@@ -5831,7 +5831,7 @@ const WordsJson = [
     {
       word: "decollete",
       definition:
-        "  (of a dress) having a low-cut neckline; CF. d'ecolletage: low neckline   (on a dress)",
+        "  (of a dress) having a low-cut neckline; CF. decolletage: low neckline   (on a dress)",
       Barron4841: "Barron4841",
     },
     {
@@ -5897,7 +5897,7 @@ const WordsJson = [
     {
       word: "defame",
       definition:
-        "harm someone'reputation; malign; speak evil of; slander; N. defamation; ADJ. defamatory",
+        "harm someonereputation; malign; speak evil of; slander; N. defamation; ADJ. defamatory",
       Barron4841: "Barron4841",
     },
     {
@@ -5930,7 +5930,7 @@ const WordsJson = [
     {
       word: "deference",
       definition:
-        "courteous regard for another'wish; courteous yielding to another'wish or opinion   (showing respect); ADJ. deferential; OP. effrontery",
+        "courteous regard for anotherwish; courteous yielding to anotherwish or opinion   (showing respect); ADJ. deferential; OP. effrontery",
       Barron4841: "Barron4841",
     },
     {
@@ -6086,7 +6086,7 @@ const WordsJson = [
     {
       word: "demagogue",
       definition:
-        "person who appeals to people'prejudice; false leader of people; CF. demagoguery",
+        "person who appeals to peopleprejudice; false leader of people; CF. demagoguery",
       Barron4841: "Barron4841",
     },
     {
@@ -6181,7 +6181,7 @@ const WordsJson = [
       Barron4841: "Barron4841",
     },
     {
-      word: "expos'e",
+      word: "expose",
       definition: "public revelation of something discreditable",
       Barron4841: "Barron4841",
     },
@@ -6607,7 +6607,7 @@ const WordsJson = [
     },
     {
       word: "dinghy",
-      definition: "small boat   (often ship'boat)",
+      definition: "small boat   (often shipboat)",
       Barron4841: "Barron4841",
     },
     {
@@ -7107,7 +7107,7 @@ const WordsJson = [
     {
       word: "distract",
       definition:
-        "take   (one'attention) off something; upset emotionally; make anxious; ADJ. distracted",
+        "take   (oneattention) off something; upset emotionally; make anxious; ADJ. distracted",
       Barron4841: "Barron4841",
     },
     {
@@ -7214,7 +7214,7 @@ const WordsJson = [
     {
       word: "dogged",
       definition:
-        "determined; stubborn; stubbornly persevering; tenacious; Ex. Inspector Javert'dogged pursuit of Jean Valjean",
+        "determined; stubborn; stubbornly persevering; tenacious; Ex. Inspector Javertdogged pursuit of Jean Valjean",
       Barron4841: "Barron4841",
     },
     {
@@ -7230,7 +7230,7 @@ const WordsJson = [
     {
       word: "dogmatic",
       definition:
-        "opinionated; holding stubbornly to one'opinion; arbitrary; doctrinal",
+        "opinionated; holding stubbornly to oneopinion; arbitrary; doctrinal",
       Barron4841: "Barron4841",
     },
     {
@@ -7258,7 +7258,7 @@ const WordsJson = [
     {
       word: "domicile",
       definition:
-        "home; V. ADJ. domiciled: having one'domicile; Ex. He is domiciled in Britain.",
+        "home; V. ADJ. domiciled: having onedomicile; Ex. He is domiciled in Britain.",
       Barron4841: "Barron4841",
     },
     {
@@ -7312,7 +7312,7 @@ const WordsJson = [
     },
     {
       word: "dotage",
-      definition: "senility; feeblemindedness of old age; Ex. In one'dotage",
+      definition: "senility; feeblemindedness of old age; Ex. In onedotage",
       Barron4841: "Barron4841",
     },
     {
@@ -7409,7 +7409,7 @@ const WordsJson = [
     },
     {
       word: "drone",
-      definition: "idle person who lives on other people'work; male bee",
+      definition: "idle person who lives on other peoplework; male bee",
       Barron4841: "Barron4841",
     },
     {
@@ -7707,7 +7707,7 @@ const WordsJson = [
     },
     {
       word: "effete",
-      definition: "having lost one'original power; barren; worn out; exhausted",
+      definition: "having lost oneoriginal power; barren; worn out; exhausted",
       Barron4841: "Barron4841",
     },
     {
@@ -7757,12 +7757,12 @@ const WordsJson = [
     {
       word: "egoism",
       definition:
-        "excessive interest in one'self; belief that one should be interested in one'self rather than in others; selfishness; ADJ. egoistic, egoistical",
+        "excessive interest in oneself; belief that one should be interested in oneself rather than in others; selfishness; ADJ. egoistic, egoistical",
       Barron4841: "Barron4841",
     },
     {
       word: "ego",
-      definition: "one'opinion of oneself; self-esteem",
+      definition: "oneopinion of oneself; self-esteem",
       Barron4841: "Barron4841",
     },
     {
@@ -7905,7 +7905,7 @@ const WordsJson = [
     {
       word: "embezzlement",
       definition:
-        "taking for one'own use in violation of trust; stealing   (of money placed in one'care)",
+        "taking for oneown use in violation of trust; stealing   (of money placed in onecare)",
       Barron4841: "Barron4841",
     },
     {
@@ -7988,7 +7988,7 @@ const WordsJson = [
     {
       word: "empathy",
       definition:
-        "ability to identify with another'feelings, ideas, etc.; identification with and understanding of another'feelings; V. empathize; CF. sympathy",
+        "ability to identify with anotherfeelings, ideas, etc.; identification with and understanding of anotherfeelings; V. empathize; CF. sympathy",
       Barron4841: "Barron4841",
     },
     {
@@ -8036,7 +8036,7 @@ const WordsJson = [
     {
       word: "encroachment",
       definition:
-        "gradual intrusion; Ex. I resent all these encroachments on my valuable time; V. encroach: take another'possessions or right gradually or stealthily; intrude; Ex. encroach on/upon",
+        "gradual intrusion; Ex. I resent all these encroachments on my valuable time; V. encroach: take anotherpossessions or right gradually or stealthily; intrude; Ex. encroach on/upon",
       Barron4841: "Barron4841",
     },
     {
@@ -8064,7 +8064,7 @@ const WordsJson = [
     {
       word: "endorse",
       definition:
-        "approve; support; write one'signature on the back of; N. endorsement; CF. dorsal",
+        "approve; support; write onesignature on the back of; N. endorsement; CF. dorsal",
       Barron4841: "Barron4841",
     },
     {
@@ -8227,7 +8227,7 @@ const WordsJson = [
     {
       word: "trance",
       definition:
-        "hypnotic state; ecstatic state; detachment from one'physical surrounding   (as in contemplation or daydreaming); CF. transition",
+        "hypnotic state; ecstatic state; detachment from onephysical surrounding   (as in contemplation or daydreaming); CF. transition",
       Barron4841: "Barron4841",
     },
     {
@@ -8469,7 +8469,7 @@ const WordsJson = [
     {
       word: "flighty",
       definition:
-        "  (esp. of a woman'behavior) capricious; often changing, esp. from one lover to another; impulsive",
+        "  (esp. of a womanbehavior) capricious; often changing, esp. from one lover to another; impulsive",
       Barron4841: "Barron4841",
     },
     {
@@ -8563,7 +8563,7 @@ const WordsJson = [
     {
       word: "eulogy",
       definition:
-        "expression of praise, often on the occasion of someone'death; V. eulogize",
+        "expression of praise, often on the occasion of someonedeath; V. eulogize",
       Barron4841: "Barron4841",
     },
     {
@@ -8898,7 +8898,7 @@ const WordsJson = [
     {
       word: "expatriate",
       definition:
-        "exile; someone who has withdrawn from his native land; V: exile; banish; leave one'country",
+        "exile; someone who has withdrawn from his native land; V: exile; banish; leave onecountry",
       Barron4841: "Barron4841",
     },
     {
@@ -8940,7 +8940,7 @@ const WordsJson = [
     },
     {
       word: "interjection",
-      definition: "exclamation; Ex. ``Ouch''",
+      definition: "exclamation; Ex. Ouch",
       Barron4841: "Barron4841",
     },
     {
@@ -8950,13 +8950,13 @@ const WordsJson = [
     },
     {
       word: "swear-word",
-      definition: "word considered offensive; Ex. ``bloody''",
+      definition: "word considered offensive; Ex. bloody",
       Barron4841: "Barron4841",
     },
     {
       word: "oath",
       definition:
-        "solemn promise; blasphemous use of sacred words to express strong feelings; swear-word; Ex. ``For Christ'sake''",
+        "solemn promise; blasphemous use of sacred words to express strong feelings; swear-word; Ex.For Christsake",
       Barron4841: "Barron4841",
     },
     {
@@ -9294,7 +9294,7 @@ const WordsJson = [
     {
       word: "fatalism",
       definition:
-        "belief that events are determined by forces or fates beyond one'control; ADJ. fatalistic; CF. fatal: causing death",
+        "belief that events are determined by forces or fates beyond onecontrol; ADJ. fatalistic; CF. fatal: causing death",
       Barron4841: "Barron4841",
     },
     {
@@ -9571,7 +9571,7 @@ const WordsJson = [
     {
       word: "bust",
       definition:
-        "piece of sculpture showing a person'head, shoulders, and upper chest; V: break up; arrest; Ex. crimebuster",
+        "piece of sculpture showing a personhead, shoulders, and upper chest; V: break up; arrest; Ex. crimebuster",
       Barron4841: "Barron4841",
     },
     {
@@ -9715,7 +9715,7 @@ const WordsJson = [
     {
       word: "flaunt",
       definition:
-        "display ostentatiously; Ex. ``Honey, if you've got it, flaunt it !''",
+        "display ostentatiously; Ex.Honey, if youve got it, flaunt it !",
       Barron4841: "Barron4841",
     },
     {
@@ -10081,7 +10081,7 @@ const WordsJson = [
     {
       word: "formality",
       definition:
-        "ceremonious quality; ceremonious adherence to rules; something done just for form'sake; Ex. mere formality",
+        "ceremonious quality; ceremonious adherence to rules; something done just for formsake; Ex. mere formality",
       Barron4841: "Barron4841",
     },
     {
@@ -10108,7 +10108,7 @@ const WordsJson = [
     },
     {
       word: "forte",
-      definition: "strong point or special talent in a person'character",
+      definition: "strong point or special talent in a personcharacter",
       Barron4841: "Barron4841",
     },
     {
@@ -10185,7 +10185,7 @@ const WordsJson = [
     {
       word: "fray",
       definition:
-        "brawl; fight; V: wear away or unravel by rubbing; have loose threads developing; cause to become worn out   (a person'temper or nerves); CF. rub",
+        "brawl; fight; V: wear away or unravel by rubbing; have loose threads developing; cause to become worn out   (a persontemper or nerves); CF. rub",
       Barron4841: "Barron4841",
     },
     {
@@ -10254,7 +10254,7 @@ const WordsJson = [
     },
     {
       word: "self-indulgence",
-      definition: "excessive indulgence of one'own desire",
+      definition: "excessive indulgence of oneown desire",
       Barron4841: "Barron4841",
     },
     {
@@ -10379,7 +10379,7 @@ const WordsJson = [
     },
     {
       word: "sly",
-      definition: "clever in deceiving; secretive; not telling one'intentions",
+      definition: "clever in deceiving; secretive; not telling oneintentions",
       Barron4841: "Barron4841",
     },
     {
@@ -11057,7 +11057,7 @@ const WordsJson = [
       Barron4841: "Barron4841",
     },
     {
-      word: "matin'ee  (matinee)",
+      word: "matinee  (matinee)",
       definition: "dramatic or musical performance given in the afternoon",
       Barron4841: "Barron4841",
     },
@@ -11340,7 +11340,7 @@ const WordsJson = [
     {
       word: "hackles",
       definition:
-        "hairs on back and neck, especially of a dog; Ex. make someone'hackles rise",
+        "hairs on back and neck, especially of a dog; Ex. make someonehackles rise",
       Barron4841: "Barron4841",
     },
     {
@@ -11541,7 +11541,7 @@ const WordsJson = [
     {
       word: "headstrong",
       definition:
-        "willful; stubborn; unyielding; determined to have one'own way; CF. no 'excessive'",
+        "willful; stubborn; unyielding; determined to have oneown way; CF. no excessive",
       Barron4841: "Barron4841",
     },
     {
@@ -11553,7 +11553,7 @@ const WordsJson = [
     {
       word: "hedonist",
       definition:
-        "one who believes that pleasure is the sole aim in life; CF. hedonism: practice of living one'life purely for pleasure",
+        "one who believes that pleasure is the sole aim in life; CF. hedonism: practice of living onelife purely for pleasure",
       Barron4841: "Barron4841",
     },
     {
@@ -11579,7 +11579,7 @@ const WordsJson = [
     {
       word: "gross",
       definition:
-        "total; fragrant; clearly wrong;   (of people'behavior) coarse; corpulent; Ex. gross insolence/behavior; V: earn as a total amount; N: 12 dozens",
+        "total; fragrant; clearly wrong;   (of peoplebehavior) coarse; corpulent; Ex. gross insolence/behavior; V: earn as a total amount; N: 12 dozens",
       Barron4841: "Barron4841",
     },
     {
@@ -11657,7 +11657,7 @@ const WordsJson = [
     {
       word: "primal",
       definition:
-        "first in rank or importance; being first in time; original; Ex. man'primal innocence",
+        "first in rank or importance; being first in time; original; Ex. manprimal innocence",
       Barron4841: "Barron4841",
     },
     {
@@ -11949,7 +11949,7 @@ const WordsJson = [
     {
       word: "husband",
       definition:
-        "use sparingly; conserve; save; Ex. husband one'energy; CF. house holder",
+        "use sparingly; conserve; save; Ex. husband oneenergy; CF. house holder",
       Barron4841: "Barron4841",
     },
     {
@@ -11971,7 +11971,7 @@ const WordsJson = [
     {
       word: "pedigree",
       definition:
-        "line of ancestors; ancestry; lineage; ADJ.   (of an animal) descended from of a chosen family; Ex. pedigree dog; CF. crane'foot",
+        "line of ancestors; ancestry; lineage; ADJ.   (of an animal) descended from of a chosen family; Ex. pedigree dog; CF. cranefoot",
       Barron4841: "Barron4841",
     },
     {
@@ -12171,7 +12171,7 @@ const WordsJson = [
     {
       word: "tenancy",
       definition:
-        "possession of land or building by rent; period of a tenant'occupancy",
+        "possession of land or building by rent; period of a tenantoccupancy",
       Barron4841: "Barron4841",
     },
     {
@@ -12250,7 +12250,7 @@ const WordsJson = [
     {
       word: "impeach",
       definition:
-        "charge   (a public official) with crime in office; raise doubts about; indict; Ex. impeach a witness'credibility",
+        "charge   (a public official) with crime in office; raise doubts about; indict; Ex. impeach a witnesscredibility",
       Barron4841: "Barron4841",
     },
     {
@@ -12261,7 +12261,7 @@ const WordsJson = [
     {
       word: "credential",
       definition:
-        "evidence concerning one'authority; written proof of a person'position; Ex. The new ambassador presented his credentials to the court.",
+        "evidence concerning oneauthority; written proof of a personposition; Ex. The new ambassador presented his credentials to the court.",
       Barron4841: "Barron4841",
     },
     {
@@ -12357,7 +12357,7 @@ const WordsJson = [
     {
       word: "impervious",
       definition:
-        "impenetrable; incapable of being damaged or distressed; incapable of being affected   (in one'opinions); Ex. impervious to water/criticism",
+        "impenetrable; incapable of being damaged or distressed; incapable of being affected   (in oneopinions); Ex. impervious to water/criticism",
       Barron4841: "Barron4841",
     },
     {
@@ -12761,7 +12761,7 @@ const WordsJson = [
     {
       word: "tend",
       definition:
-        "have a tendency; take care of; minister; serve at; apply one'attention; attend",
+        "have a tendency; take care of; minister; serve at; apply oneattention; attend",
       Barron4841: "Barron4841",
     },
     {
@@ -12777,7 +12777,7 @@ const WordsJson = [
     {
       word: "incoherent",
       definition:
-        "unintelligible; muddled; unable to express one'thoughts in an orderly manner; illogical; lacking cohesion; not coherent",
+        "unintelligible; muddled; unable to express onethoughts in an orderly manner; illogical; lacking cohesion; not coherent",
       Barron4841: "Barron4841",
     },
     {
@@ -12869,7 +12869,7 @@ const WordsJson = [
     {
       word: "incubate",
       definition:
-        "hatch; warm   (eggs) with the body to promote hatching; maintain at optimal environment conditions for development; be holding in one'body an infection which is going to develop into a disease; N. incubation; CF. incubation:disease",
+        "hatch; warm   (eggs) with the body to promote hatching; maintain at optimal environment conditions for development; be holding in onebody an infection which is going to develop into a disease; N. incubation; CF. incubation:disease",
       Barron4841: "Barron4841",
     },
     {
@@ -12950,7 +12950,7 @@ const WordsJson = [
     {
       word: "indices",
       definition:
-        "signs; indications; Ex. indices of a student'potential; CF. index: something that reveals or indicates; sign; Ex. cost-of-living index",
+        "signs; indications; Ex. indices of a studentpotential; CF. index: something that reveals or indicates; sign; Ex. cost-of-living index",
       Barron4841: "Barron4841",
     },
     {
@@ -13062,7 +13062,7 @@ const WordsJson = [
     {
       word: "indulge",
       definition:
-        "yield to; gratify; allow oneself a special pleasure; Ex. indulge one'every whim/a child/in a big cigarette; N. indulgence",
+        "yield to; gratify; allow oneself a special pleasure; Ex. indulge oneevery whim/a child/in a big cigarette; N. indulgence",
       Barron4841: "Barron4841",
     },
     {
@@ -13233,7 +13233,7 @@ const WordsJson = [
     },
     {
       word: "ingenue",
-      definition: "ing'enue; young innocent girl",
+      definition: "ingenue; young innocent girl",
       Barron4841: "Barron4841",
     },
     {
@@ -13406,7 +13406,7 @@ const WordsJson = [
     {
       word: "insinuate",
       definition:
-        "hint; imply; suggest indirectly; creep in; introduce or insert   (oneself) by artful means; Ex. insinuate himself into the boss'favor; CF. ingratiate",
+        "hint; imply; suggest indirectly; creep in; introduce or insert   (oneself) by artful means; Ex. insinuate himself into the bossfavor; CF. ingratiate",
       Barron4841: "Barron4841",
     },
     {
@@ -13639,7 +13639,7 @@ const WordsJson = [
     {
       word: "intrude",
       definition:
-        "put or force in without being asked; trespass; enter as an uninvited person; Ex. intrude one'own opinion into the report; CF. thrust in",
+        "put or force in without being asked; trespass; enter as an uninvited person; Ex. intrude oneown opinion into the report; CF. thrust in",
       Barron4841: "Barron4841",
     },
     {
@@ -13747,7 +13747,7 @@ const WordsJson = [
     {
       word: "invoke",
       definition:
-        "call and bring into use   (a right or law); call on/upon   (a higher power or god) for help; ask for; beg for; conjure   (a spirit); Ex. invoke the veto power; Ex. invoke one'advisor/God",
+        "call and bring into use   (a right or law); call on/upon   (a higher power or god) for help; ask for; beg for; conjure   (a spirit); Ex. invoke the veto power; Ex. invoke oneadvisor/God",
       Barron4841: "Barron4841",
     },
     {
@@ -13843,7 +13843,7 @@ const WordsJson = [
     },
     {
       word: "indecision",
-      definition: "irresolution; inability to make up one'mind",
+      definition: "irresolution; inability to make up onemind",
       Barron4841: "Barron4841",
     },
     {
@@ -14062,7 +14062,7 @@ const WordsJson = [
     },
     {
       word: "ken",
-      definition: "range of knowledge; Ex. beyond one'ken",
+      definition: "range of knowledge; Ex. beyond oneken",
       Barron4841: "Barron4841",
     },
     {
@@ -14311,7 +14311,7 @@ const WordsJson = [
     {
       word: "lap",
       definition:
-        "take in food or drink with one'tongue; splash gently; Ex. waves lapping the shore; N: front area from the waist to the knees of a seated person",
+        "take in food or drink with onetongue; splash gently; Ex. waves lapping the shore; N: front area from the waist to the knees of a seated person",
       Barron4841: "Barron4841",
     },
     {
@@ -14518,17 +14518,17 @@ const WordsJson = [
     {
       word: "libel",
       definition:
-        "defamatory written statement; act of writing something that smears a person'character; V. ADJ. libelous",
+        "defamatory written statement; act of writing something that smears a personcharacter; V. ADJ. libelous",
       Barron4841: "Barron4841",
     },
     {
       word: "libertine",
       definition:
-        "debauched person; dissolute or licentious person; rou'e; CF. free",
+        "debauched person; dissolute or licentious person; roue; CF. free",
       Barron4841: "Barron4841",
     },
     {
-      word: "rou'e",
+      word: "roue",
       definition: "lecherous man",
       Barron4841: "Barron4841",
     },
@@ -14571,7 +14571,7 @@ const WordsJson = [
     },
     {
       word: "lilliputian",
-      definition: "extremely small; CF. Lilliput in Gulliver'Travels",
+      definition: "extremely small; CF. Lilliput in GulliverTravels",
       Barron4841: "Barron4841",
     },
     {
@@ -14593,7 +14593,7 @@ const WordsJson = [
     {
       word: "abide",
       definition:
-        "dwell; abide by: comply with; put up with; tolerate; Ex. abide by the rules; Ex. I can't abide rude people.",
+        "dwell; abide by: comply with; put up with; tolerate; Ex. abide by the rules; Ex. I cant abide rude people.",
       Barron4841: "Barron4841",
     },
     {
@@ -14684,7 +14684,7 @@ const WordsJson = [
     },
     {
       word: "litotes",
-      definition: "understatement for emphasis; Ex. ``not bad  (=pretty good)''",
+      definition: "understatement for emphasis; Ex. not bad  (=pretty good)",
       Barron4841: "Barron4841",
     },
     {
@@ -14839,7 +14839,7 @@ const WordsJson = [
     },
     {
       word: "lumen",
-      definition: "unit of light energy   (one candle'worth)",
+      definition: "unit of light energy   (one candleworth)",
       Barron4841: "Barron4841",
     },
     {
@@ -15193,7 +15193,7 @@ const WordsJson = [
     {
       word: "manipulate",
       definition:
-        "operate with one'hands; control or play upon   (people, forces, etc.) artfully; maneuver; Ex. how to manipulate publicity and men; ADJ. manipulative",
+        "operate with onehands; control or play upon   (people, forces, etc.) artfully; maneuver; Ex. how to manipulate publicity and men; ADJ. manipulative",
       Barron4841: "Barron4841",
     },
     {
@@ -15405,7 +15405,7 @@ const WordsJson = [
     {
       word: "medium",
       definition:
-        "element that is a creature'natural environment; nutrient setting in which microorganisms are cultivated; appropriate occupation or means of expression; channel of communication; compromise; middle position between extremes; intervening substance through which something else is transmitted",
+        "element that is a creaturenatural environment; nutrient setting in which microorganisms are cultivated; appropriate occupation or means of expression; channel of communication; compromise; middle position between extremes; intervening substance through which something else is transmitted",
       Barron4841: "Barron4841",
     },
     {
@@ -15641,7 +15641,7 @@ const WordsJson = [
     {
       word: "milieu",
       definition:
-        "social environment; means of expression; Ex. feel out of one'milieu; Ex. His proper milieu is watercolor.",
+        "social environment; means of expression; Ex. feel out of onemilieu; Ex. His proper milieu is watercolor.",
       Barron4841: "Barron4841",
     },
     {
@@ -16048,7 +16048,7 @@ const WordsJson = [
     {
       word: "mortify",
       definition:
-        "humiliate by embarassing excessively; shame; punish the flesh; discipline   (one'body) by self-denial; Ex. mortified by her blunder; Ex. mortify the flesh; CF. cause to die",
+        "humiliate by embarassing excessively; shame; punish the flesh; discipline   (onebody) by self-denial; Ex. mortified by her blunder; Ex. mortify the flesh; CF. cause to die",
       Barron4841: "Barron4841",
     },
     {
@@ -16190,7 +16190,7 @@ const WordsJson = [
     {
       word: "muster",
       definition:
-        "gather; assemble   (troops); Ex. muster up one'strength for the ordeal; N.",
+        "gather; assemble   (troops); Ex. muster up onestrength for the ordeal; N.",
       Barron4841: "Barron4841",
     },
     {
@@ -16244,9 +16244,9 @@ const WordsJson = [
       Barron4841: "Barron4841",
     },
     {
-      word: "naivet'e  (naivety)",
+      word: "naivete  (naivety)",
       definition:
-        '"quality of being unsophisticated; simplicity; artlessness; gullibility; ADJ. naive  (na""ive): ingenuous; lacking worldliness; simple; credulous"',
+        "quality of being unsophisticated; simplicity; artlessness; gullibility; ADJ. naive  (naive): ingenuous; lacking worldliness; simple; credulous",
       Barron4841: "Barron4841",
     },
     {
@@ -16421,7 +16421,7 @@ const WordsJson = [
     {
       word: "nip",
       definition:
-        "snip off; stop something'growth or development; bite; make numb with cold; Ex. nip the plan; Ex. A guard dog nipped the postman; Ex. fingers nipped by the extreme chill",
+        "snip off; stop somethinggrowth or development; bite; make numb with cold; Ex. nip the plan; Ex. A guard dog nipped the postman; Ex. fingers nipped by the extreme chill",
       Barron4841: "Barron4841",
     },
     {
@@ -16432,7 +16432,7 @@ const WordsJson = [
     {
       word: "pinch",
       definition:
-        "squeeze between the thumb and a finger, or other edges; Ex. I had to pinch myself to make sure I wasn't dreaming. N: amount that can be held between the thumb and a finger",
+        "squeeze between the thumb and a finger, or other edges; Ex. I had to pinch myself to make sure I wasnt dreaming. N: amount that can be held between the thumb and a finger",
       Barron4841: "Barron4841",
     },
     {
@@ -16623,7 +16623,7 @@ const WordsJson = [
     },
     {
       word: "obdurate",
-      definition: "stubborn; refusing to change one'belief",
+      definition: "stubborn; refusing to change onebelief",
       Barron4841: "Barron4841",
     },
     {
@@ -16761,7 +16761,7 @@ const WordsJson = [
     {
       word: "obtrude",
       definition:
-        "push   (oneself or one'ideas) forward or intrude; impose   (oneself or one'ideas) on others; butt in; stick out or extrude; thrust out; Ex. obtrude A on B; ADJ. obtrusive; N. obtrusion; CF. unobtrusive",
+        "push   (oneself or oneideas) forward or intrude; impose   (oneself or oneideas) on others; butt in; stick out or extrude; thrust out; Ex. obtrude A on B; ADJ. obtrusive; N. obtrusion; CF. unobtrusive",
       Barron4841: "Barron4841",
     },
     {
@@ -16835,7 +16835,7 @@ const WordsJson = [
     {
       word: "officious",
       definition:
-        "meddlesome; excessively pushy in offering one'services; overly eager in offering unwanted services or advices; Ex. officious bellboy",
+        "meddlesome; excessively pushy in offering oneservices; overly eager in offering unwanted services or advices; Ex. officious bellboy",
       Barron4841: "Barron4841",
     },
     {
@@ -16979,7 +16979,7 @@ const WordsJson = [
     {
       word: "optional",
       definition:
-        "not compulsory; left to one'choice; N. option: act of choosing; choice; freedom or power to choose; something available as a choice; Ex. have no option; Ex. two options",
+        "not compulsory; left to onechoice; N. option: act of choosing; choice; freedom or power to choose; something available as a choice; Ex. have no option; Ex. two options",
       Barron4841: "Barron4841",
     },
     {
@@ -17048,7 +17048,7 @@ const WordsJson = [
     {
       word: "orient",
       definition:
-        "get one'bearings; adjust; make familiar with a situation; orientate",
+        "get onebearings; adjust; make familiar with a situation; orientate",
       Barron4841: "Barron4841",
     },
     {
@@ -17098,7 +17098,7 @@ const WordsJson = [
     {
       word: "ossify",
       definition:
-        "change or harden into bone; become hard and unchanging in one'ideas",
+        "change or harden into bone; become hard and unchanging in oneideas",
       Barron4841: "Barron4841",
     },
     {
@@ -17360,7 +17360,7 @@ const WordsJson = [
     },
     {
       word: "panegyric",
-      definition: "formal praise; encomium; Ex. I don't deserve such panegyrics.",
+      definition: "formal praise; encomium; Ex. I dont deserve such panegyrics.",
       Barron4841: "Barron4841",
     },
     {
@@ -17443,7 +17443,7 @@ const WordsJson = [
     {
       word: "paraphernalia",
       definition:
-        "equipment; odds and ends used in a particular activity; personal belongings; Ex. photographic paraphernalia; CF. married woman'property exclusive of her dowry",
+        "equipment; odds and ends used in a particular activity; personal belongings; Ex. photographic paraphernalia; CF. married womanproperty exclusive of her dowry",
       Barron4841: "Barron4841",
     },
     {
@@ -17455,7 +17455,7 @@ const WordsJson = [
     {
       word: "paraphrase",
       definition:
-        "restate a passage in one'own words while retaining thought of author; N: restatement of a text in other words",
+        "restate a passage in oneown words while retaining thought of author; N: restatement of a text in other words",
       Barron4841: "Barron4841",
     },
     {
@@ -17591,7 +17591,7 @@ const WordsJson = [
       Barron4841: "Barron4841",
     },
     {
-      word: "pass'e",
+      word: "passe",
       definition: "old-fashioned; past the prime",
       Barron4841: "Barron4841",
     },
@@ -17604,7 +17604,7 @@ const WordsJson = [
     {
       word: "pastiche",
       definition:
-        "imitation of another'style in musical composition or in writing; work of art openly imitating the works of other artists",
+        "imitation of anotherstyle in musical composition or in writing; work of art openly imitating the works of other artists",
       Barron4841: "Barron4841",
     },
     {
@@ -17745,7 +17745,7 @@ const WordsJson = [
     },
     {
       word: "pediatrician",
-      definition: "physician specializing in children'diseases; N. pediatrics",
+      definition: "physician specializing in childrendiseases; N. pediatrics",
       Barron4841: "Barron4841",
     },
     {
@@ -17762,7 +17762,7 @@ const WordsJson = [
     {
       word: "pejorative",
       definition:
-        "  (of a word or phrase) suggesting that someone is of little value; negative in connotation; having a belittling effect; Ex. Many women now considers ``housewife'' a pejorative expression, because it patronized them.",
+        "  (of a word or phrase) suggesting that someone is of little value; negative in connotation; having a belittling effect; Ex. Many women now considers housewife a pejorative expression, because it patronized them.",
       Barron4841: "Barron4841",
     },
     {
@@ -17779,7 +17779,7 @@ const WordsJson = [
     {
       word: "penance",
       definition:
-        "self-imposed punishment for sin; Ex. do penance for one'sins; CF. penitent",
+        "self-imposed punishment for sin; Ex. do penance for onesins; CF. penitent",
       Barron4841: "Barron4841",
     },
     {
@@ -17909,7 +17909,7 @@ const WordsJson = [
     },
     {
       word: "perigee",
-      definition: "point of moon'orbit when it is nearest the earth; CF. apogee",
+      definition: "point of moonorbit when it is nearest the earth; CF. apogee",
       Barron4841: "Barron4841",
     },
     {
@@ -18131,7 +18131,7 @@ const WordsJson = [
     },
     {
       word: "self-righteous",
-      definition: "sure of one'own righteousness; moralistic",
+      definition: "sure of oneown righteousness; moralistic",
       Barron4841: "Barron4841",
     },
     {
@@ -18248,7 +18248,7 @@ const WordsJson = [
     {
       word: "pinion",
       definition:
-        "restrain or immobilize by binding the wings or legs; N: bird'wing",
+        "restrain or immobilize by binding the wings or legs; N: birdwing",
       Barron4841: "Barron4841",
     },
     {
@@ -18350,7 +18350,7 @@ const WordsJson = [
     {
       word: "plagiarize",
       definition:
-        "steal another'ideas or writings and pass them off as one'own; Ex. ideas plagiarized from my article; N. plagiarism; CF. kidnap",
+        "steal anotherideas or writings and pass them off as oneown; Ex. ideas plagiarized from my article; N. plagiarism; CF. kidnap",
       Barron4841: "Barron4841",
     },
     {
@@ -18645,7 +18645,7 @@ const WordsJson = [
     {
       word: "posthumous",
       definition:
-        "after death   (as of child born after father'death or book published after author'death); coming or occurring after one'death; Ex. posthumous fame/novel",
+        "after death   (as of child born after fatherdeath or book published after authordeath); coming or occurring after onedeath; Ex. posthumous fame/novel",
       Barron4841: "Barron4841",
     },
     {
@@ -18764,7 +18764,7 @@ const WordsJson = [
     },
     {
       word: "precept",
-      definition: "practical rule guiding conduct; Ex. mother'precept",
+      definition: "practical rule guiding conduct; Ex. motherprecept",
       Barron4841: "Barron4841",
     },
     {
@@ -18796,7 +18796,7 @@ const WordsJson = [
       Barron4841: "Barron4841",
     },
     {
-      word: "pr'ecis",
+      word: "precis",
       definition:
         "abstract; concise summing up of main points; concise summary of a text",
       Barron4841: "Barron4841",
@@ -18963,7 +18963,7 @@ const WordsJson = [
     {
       word: "presume",
       definition:
-        "take for granted; assume; act overconfidently; take liberties; presume on/upon: take unfair advantage of   (someone'kindness or connection); N. presumption",
+        "take for granted; assume; act overconfidently; take liberties; presume on/upon: take unfair advantage of   (someonekindness or connection); N. presumption",
       Barron4841: "Barron4841",
     },
     {
@@ -18975,7 +18975,7 @@ const WordsJson = [
     {
       word: "pretend",
       definition:
-        "feign; pretend to: claim to possess; make pretensions to; Ex. I don't pretend to much expertise; N. pretense",
+        "feign; pretend to: claim to possess; make pretensions to; Ex. I dont pretend to much expertise; N. pretense",
       Barron4841: "Barron4841",
     },
     {
@@ -19245,7 +19245,7 @@ const WordsJson = [
     {
       word: "cue",
       definition:
-        "word or signal   (as in a play to prompt another actor'speech or entrance); reminder or hint; V: give a cue to",
+        "word or signal   (as in a play to prompt another actorspeech or entrance); reminder or hint; V: give a cue to",
       Barron4841: "Barron4841",
     },
     {
@@ -19308,7 +19308,7 @@ const WordsJson = [
     {
       word: "horoscope",
       definition:
-        "diagram of the positions of stars at a given moment   (eg. of a person'birth) used by astrologers",
+        "diagram of the positions of stars at a given moment   (eg. of a personbirth) used by astrologers",
       Barron4841: "Barron4841",
     },
     {
@@ -19414,7 +19414,7 @@ const WordsJson = [
       Barron4841: "Barron4841",
     },
     {
-      word: "prot'eg'e person",
+      word: "protege person",
       definition: "receiving protection and support from a patron",
       Barron4841: "Barron4841",
     },
@@ -19470,7 +19470,7 @@ const WordsJson = [
     {
       word: "providence",
       definition:
-        "quality of being provident; divine care; god'care; Providence: god; Ex. It seemed like providence that the doctor happened to be there; ADJ. providential: of divine providence; fortunate",
+        "quality of being provident; divine care; godcare; Providence: god; Ex. It seemed like providence that the doctor happened to be there; ADJ. providential: of divine providence; fortunate",
       Barron4841: "Barron4841",
     },
     {
@@ -19542,7 +19542,7 @@ const WordsJson = [
     {
       word: "pry",
       definition:
-        "inquire impertinently   (someone else'private affairs); use leverage to raise or open something; prize; N. pries: tool for prying",
+        "inquire impertinently   (someone elseprivate affairs); use leverage to raise or open something; prize; N. pries: tool for prying",
       Barron4841: "Barron4841",
     },
     {
@@ -19863,7 +19863,7 @@ const WordsJson = [
     {
       word: "quell",
       definition:
-        "suppress; put an end to; put down forcibly; extinguish; quiet; Ex. ``Army Quells Rebellion'' in newspaper; CF. kill",
+        "suppress; put an end to; put down forcibly; extinguish; quiet; Ex. Army Quells Rebellion in newspaper; CF. kill",
       Barron4841: "Barron4841",
     },
     {
@@ -20165,7 +20165,7 @@ const WordsJson = [
     {
       word: "rasp",
       definition:
-        "  (of a sound) grate on   (eg. nerves); make a harsh noise; have an unpleasant effect; rub with something rough; Ex. The cat'tongue rasped my hand.",
+        "  (of a sound) grate on   (eg. nerves); make a harsh noise; have an unpleasant effect; rub with something rough; Ex. The cattongue rasped my hand.",
       Barron4841: "Barron4841",
     },
     {
@@ -20188,7 +20188,7 @@ const WordsJson = [
     {
       word: "rationalize",
       definition:
-        "make rational; devise false reasons for   (one'behavior); offer an excuse; give a plausible reason for an action in place of a true, less admirable ones; N. rationalization",
+        "make rational; devise false reasons for   (onebehavior); offer an excuse; give a plausible reason for an action in place of a true, less admirable ones; N. rationalization",
       Barron4841: "Barron4841",
     },
     {
@@ -20292,7 +20292,7 @@ const WordsJson = [
     {
       word: "rebus",
       definition:
-        "representation of words in the form of pictures or symbols; puzzle in which pictures or letters stand for words; Ex. ``R U 18'' is a rebus for ``Are you 18''.",
+        "representation of words in the form of pictures or symbols; puzzle in which pictures or letters stand for words; Ex. R U 18 is a rebus for Are you 18.",
       Barron4841: "Barron4841",
     },
     {
@@ -20310,7 +20310,7 @@ const WordsJson = [
     {
       word: "recant",
       definition:
-        "disclaim or disavow; retract a previous statement; openly confess error; Ex. recant one'faith/a statement",
+        "disclaim or disavow; retract a previous statement; openly confess error; Ex. recant onefaith/a statement",
       Barron4841: "Barron4841",
     },
     {
@@ -20377,7 +20377,7 @@ const WordsJson = [
     {
       word: "reconcile",
       definition:
-        "make friendly again   (after quarrel); make consistent   (two ideas in opposition); correct inconsistencies; Ex. reconcile one'political principles with one'religious beliefs",
+        "make friendly again   (after quarrel); make consistent   (two ideas in opposition); correct inconsistencies; Ex. reconcile onepolitical principles with onereligious beliefs",
       Barron4841: "Barron4841",
     },
     {
@@ -20621,7 +20621,7 @@ const WordsJson = [
     {
       word: "relegate",
       definition:
-        "put into a lower or worse place; banish to an inferior position; delegate; assign; Ex. relegate the old furniture to the children'room; Ex. relegated to the second division",
+        "put into a lower or worse place; banish to an inferior position; delegate; assign; Ex. relegate the old furniture to the childrenroom; Ex. relegated to the second division",
       Barron4841: "Barron4841",
     },
     {
@@ -20748,7 +20748,7 @@ const WordsJson = [
     {
       word: "renounce",
       definition:
-        "abandon; give up   (by formal announcement); disown; repudiate; Ex. renounce one'claim to the property/one'religion; N. renunciation",
+        "abandon; give up   (by formal announcement); disown; repudiate; Ex. renounce oneclaim to the property/onereligion; N. renunciation",
       Barron4841: "Barron4841",
     },
     {
@@ -20938,7 +20938,7 @@ const WordsJson = [
     {
       word: "repulsion",
       definition:
-        "distaste; disgust; act of driving back; ADJ. repulsive: causing disgust; tending to drive away; V. repel   (not `repulse')",
+        "distaste; disgust; act of driving back; ADJ. repulsive: causing disgust; tending to drive away; V. repel   (not `repulse)",
       Barron4841: "Barron4841",
     },
     {
@@ -21091,7 +21091,7 @@ const WordsJson = [
     {
       word: "restive",
       definition:
-        "impatiently restless   (induced by external coercion or restriction); restlessly impatient; obstinately resisting control; Ex. restive horses because of wolves; CF. not a general synonym for `restless'",
+        "impatiently restless   (induced by external coercion or restriction); restlessly impatient; obstinately resisting control; Ex. restive horses because of wolves; CF. not a general synonym for `restless",
       Barron4841: "Barron4841",
     },
     {
@@ -21280,7 +21280,7 @@ const WordsJson = [
     {
       word: "rhetoric",
       definition:
-        "art of effective communication; art of using language effectively and persuasively; style of speaking or writing; grandiloquent language; Ex. political rhetoric; ADJ. rhetorical; CF. rhetorical question: question to which no answer is expected as ``Who knows it ?''",
+        "art of effective communication; art of using language effectively and persuasively; style of speaking or writing; grandiloquent language; Ex. political rhetoric; ADJ. rhetorical; CF. rhetorical question: question to which no answer is expected as Who knows it ?",
       Barron4841: "Barron4841",
     },
     {
@@ -21335,7 +21335,7 @@ const WordsJson = [
     },
     {
       word: "riveting",
-      definition: "holding one'attention; absorbing; engrossing",
+      definition: "holding oneattention; absorbing; engrossing",
       Barron4841: "Barron4841",
     },
     {
@@ -21346,7 +21346,7 @@ const WordsJson = [
     },
     {
       word: "rivulet",
-      definition: "small stream; CF. rill < rivulet < river",
+      definition: "small stream; CF. rill  rivulet  river",
       Barron4841: "Barron4841",
     },
     {
@@ -21804,7 +21804,7 @@ const WordsJson = [
     {
       word: "score",
       definition:
-        "number of points; written form of a musical composition; reason; group of 20; notch or incision; Ex. full/vocal score; Ex. Don't worry on that score; V: mark with lines or notches; Ex. score the paper to make it easy to fold",
+        "number of points; written form of a musical composition; reason; group of 20; notch or incision; Ex. full/vocal score; Ex. Dont worry on that score; V: mark with lines or notches; Ex. score the paper to make it easy to fold",
       Barron4841: "Barron4841",
     },
     {
@@ -21866,7 +21866,7 @@ const WordsJson = [
     {
       word: "scuttle",
       definition:
-        "sink   (a ship) by cutting holes in the hull; scrap; discard; N: small hatch in a ship'deck or hull",
+        "sink   (a ship) by cutting holes in the hull; scrap; discard; N: small hatch in a shipdeck or hull",
       Barron4841: "Barron4841",
     },
     {
@@ -22181,7 +22181,7 @@ const WordsJson = [
     {
       word: "sextant",
       definition:
-        "navigation tool used to determine a ship'latitude and longitude   (by measuring the altitudes of stars)",
+        "navigation tool used to determine a shiplatitude and longitude   (by measuring the altitudes of stars)",
       Barron4841: "Barron4841",
     },
     {
@@ -22215,7 +22215,7 @@ const WordsJson = [
     },
     {
       word: "plane",
-      definition: "carpenter'tool for smoothing and leveling wood; V. CF. flat",
+      definition: "carpentertool for smoothing and leveling wood; V. CF. flat",
       Barron4841: "Barron4841",
     },
     {
@@ -22417,7 +22417,7 @@ const WordsJson = [
     {
       word: "slack",
       definition:
-        "moving slowly; sluggish; inactive;   (of a rope) loose; negligent; lax; Ex. slack season; Ex. slack in one'work; N. V.",
+        "moving slowly; sluggish; inactive;   (of a rope) loose; negligent; lax; Ex. slack season; Ex. slack in onework; N. V.",
       Barron4841: "Barron4841",
     },
     {
@@ -22467,7 +22467,7 @@ const WordsJson = [
     {
       word: "slight",
       definition:
-        "insult to one'dignity; snub; V: treat as if of small importance; insult; snub; ADJ. small in size; of small importance",
+        "insult to onedignity; snub; V: treat as if of small importance; insult; snub; ADJ. small in size; of small importance",
       Barron4841: "Barron4841",
     },
     {
@@ -22526,7 +22526,7 @@ const WordsJson = [
     },
     {
       word: "slur",
-      definition: "slander; insult to one'character or reputation; V.",
+      definition: "slander; insult to onecharacter or reputation; V.",
       Barron4841: "Barron4841",
     },
     {
@@ -22544,7 +22544,7 @@ const WordsJson = [
     {
       word: "smirk",
       definition:
-        "conceited smile; offensively self-satisfied smile   (often at someone else'misfortune); V.",
+        "conceited smile; offensively self-satisfied smile   (often at someone elsemisfortune); V.",
       Barron4841: "Barron4841",
     },
     {
@@ -22561,7 +22561,7 @@ const WordsJson = [
     {
       word: "snivel",
       definition:
-        "complain or whine tearfully; run at the nose; snuffle; Ex. Don't come back sniveling to me.",
+        "complain or whine tearfully; run at the nose; snuffle; Ex. Dont come back sniveling to me.",
       Barron4841: "Barron4841",
     },
     {
@@ -22812,7 +22812,7 @@ const WordsJson = [
     {
       word: "spoonerism",
       definition:
-        "accidental transposition of sounds in successive words; Ex. ``Let me sew you to your sheet'' for ``Let me show you to your seat''; CF. William Spooner",
+        "accidental transposition of sounds in successive words; Ex. Let me sew you to your sheet for Let me show you to your seat; CF. William Spooner",
       Barron4841: "Barron4841",
     },
     {
@@ -23099,7 +23099,7 @@ const WordsJson = [
     },
     {
       word: "stratum",
-      definition: "layer of earth'surface; layer of society; PL. strata",
+      definition: "layer of earthsurface; layer of society; PL. strata",
       Barron4841: "Barron4841",
     },
     {
@@ -23199,7 +23199,7 @@ const WordsJson = [
     {
       word: "subdue",
       definition:
-        "less intense; quieter; Ex. subdued lighting; Ex. subdue: conquer; make less intense; quiet; Ex. subdue one'anger",
+        "less intense; quieter; Ex. subdued lighting; Ex. subdue: conquer; make less intense; quiet; Ex. subdue oneanger",
       Barron4841: "Barron4841",
     },
     {
@@ -23360,7 +23360,7 @@ const WordsJson = [
     },
     {
       word: "sully",
-      definition: "defile; soil; tarnish; Ex. sully one'hands in menial labor",
+      definition: "defile; soil; tarnish; Ex. sully onehands in menial labor",
       Barron4841: "Barron4841",
     },
     {
@@ -23567,7 +23567,7 @@ const WordsJson = [
     },
     {
       word: "swathe",
-      definition: "swath; wrap around; bandage; Ex. one'head swathed in bandages",
+      definition: "swath; wrap around; bandage; Ex. onehead swathed in bandages",
       Barron4841: "Barron4841",
     },
     {
@@ -23764,7 +23764,7 @@ const WordsJson = [
     {
       word: "tautological",
       definition:
-        "needlessly repetitious; Ex. ``It was visible to the eye''; N. tautology: needless repetition of the same sense; statement that is always true",
+        "needlessly repetitious; Ex. It was visible to the eye; N. tautology: needless repetition of the same sense; statement that is always true",
       Barron4841: "Barron4841",
     },
     {
@@ -23792,7 +23792,7 @@ const WordsJson = [
     {
       word: "temerity",
       definition:
-        "boldness; nerve; rashness; Ex. temerity to ask for a pay increase after only three day'work",
+        "boldness; nerve; rashness; Ex. temerity to ask for a pay increase after only three daywork",
       Barron4841: "Barron4841",
     },
     {
@@ -23854,7 +23854,7 @@ const WordsJson = [
     {
       word: "tender",
       definition:
-        "offer formally; extend; Ex. tender one'resignation/the exact fare; N: formal offer; money; Ex. legal tender; ADJ: young and vulnerable; sensitive to the touch; sore; soft; delicate; Ex. child of tender years; Ex. tender wound",
+        "offer formally; extend; Ex. tender oneresignation/the exact fare; N: formal offer; money; Ex. legal tender; ADJ: young and vulnerable; sensitive to the touch; sore; soft; delicate; Ex. child of tender years; Ex. tender wound",
       Barron4841: "Barron4841",
     },
     {
@@ -23951,7 +23951,7 @@ const WordsJson = [
     {
       word: "tether",
       definition:
-        "tie   (an animal) with a rope or tether; N: rope or chain to which an animal is tied; limit of one'endurance; Ex. the end of one'tether",
+        "tie   (an animal) with a rope or tether; N: rope or chain to which an animal is tied; limit of oneendurance; Ex. the end of onetether",
       Barron4841: "Barron4841",
     },
     {
@@ -24046,7 +24046,7 @@ const WordsJson = [
     },
     {
       word: "tiller",
-      definition: "handle used to move boat'rudder   (to steer)",
+      definition: "handle used to move boatrudder   (to steer)",
       Barron4841: "Barron4841",
     },
     {
@@ -24214,7 +24214,7 @@ const WordsJson = [
     {
       word: "tout",
       definition:
-        "promote or publicize   (one'goods or service); praise excessively   (as a form of advertisement); CF. advertise",
+        "promote or publicize   (onegoods or service); praise excessively   (as a form of advertisement); CF. advertise",
       Barron4841: "Barron4841",
     },
     {
@@ -24650,7 +24650,7 @@ const WordsJson = [
     },
     {
       word: "unassuming",
-      definition: "modest; Ex. the champion'unassuming manner",
+      definition: "modest; Ex. the championunassuming manner",
       Barron4841: "Barron4841",
     },
     {
@@ -24661,7 +24661,7 @@ const WordsJson = [
     {
       word: "bridle",
       definition:
-        "harness fitted about a horse'head   (used to restrain); curb; check; V: put a bridle on; control or restrain; show anger",
+        "harness fitted about a horsehead   (used to restrain); curb; check; V: put a bridle on; control or restrain; show anger",
       Barron4841: "Barron4841",
     },
     {
@@ -25009,7 +25009,7 @@ const WordsJson = [
     {
       word: "usurp",
       definition:
-        "seize another'power or rank   (without legal authority); supplant; appropriate; N. usurpation; CF. take for one'own use",
+        "seize anotherpower or rank   (without legal authority); supplant; appropriate; N. usurpation; CF. take for oneown use",
       Barron4841: "Barron4841",
     },
     {
@@ -25029,7 +25029,7 @@ const WordsJson = [
     },
     {
       word: "uxorious",
-      definition: "excessively submissive or devoted to one'wife; CF. uxor: wife",
+      definition: "excessively submissive or devoted to onewife; CF. uxor: wife",
       Barron4841: "Barron4841",
     },
     {
@@ -25492,7 +25492,7 @@ const WordsJson = [
     {
       word: "vindicate",
       definition:
-        "clear from blame; free from blame or accusation   (with supporting proof); exonerate; substantiate; justify or support; avenge; Ex. vindicate one'client; Ex. vindicate one'claim; CF. vindicator",
+        "clear from blame; free from blame or accusation   (with supporting proof); exonerate; substantiate; justify or support; avenge; Ex. vindicate oneclient; Ex. vindicate oneclaim; CF. vindicator",
       Barron4841: "Barron4841",
     },
     {
@@ -25552,7 +25552,7 @@ const WordsJson = [
     {
       word: "visceral",
       definition:
-        "felt in one'inner organs; N. viscera: internal body organs; CF. eviscerate",
+        "felt in oneinner organs; N. viscera: internal body organs; CF. eviscerate",
       Barron4841: "Barron4841",
     },
     {
@@ -25652,7 +25652,7 @@ const WordsJson = [
     {
       word: "volition",
       definition:
-        "act of using one'will; act of making a conscious choice; Ex. She selected this dress of her own volition.",
+        "act of using onewill; act of making a conscious choice; Ex. She selected this dress of her own volition.",
       Barron4841: "Barron4841",
     },
     {
@@ -25725,7 +25725,7 @@ const WordsJson = [
     {
       word: "craft",
       definition:
-        "skill   (esp. with one'hands); skill in deceiving people; guile; ADJ. crafty: cleverly deceitful; cunning",
+        "skill   (esp. with onehands); skill in deceiving people; guile; ADJ. crafty: cleverly deceitful; cunning",
       Barron4841: "Barron4841",
     },
     {
@@ -25918,7 +25918,7 @@ const WordsJson = [
     },
     {
       word: "whet",
-      definition: "sharpen; stimulate; Ex. whet someone'appetite",
+      definition: "sharpen; stimulate; Ex. whet someoneappetite",
       Barron4841: "Barron4841",
     },
     {
@@ -26104,7 +26104,7 @@ const WordsJson = [
     {
       word: "wont",
       definition:
-        "  (the stated person's) habit or custom; habitual procedure; ADJ. wonted: customary",
+        "  (the stated persons) habit or custom; habitual procedure; ADJ. wonted: customary",
       Barron4841: "Barron4841",
     },
     {
@@ -26131,7 +26131,7 @@ const WordsJson = [
     },
     {
       word: "wreak",
-      definition: "inflict; Ex. wreak one'vengeance on",
+      definition: "inflict; Ex. wreak onevengeance on",
       Barron4841: "Barron4841",
     },
     {
@@ -26484,7 +26484,7 @@ const WordsJson = [
     {
       word: "banderole   (also, bannerol)",
       definition:
-        "1. A narrow forked flag or streamer attached to a staff or lance or flown from a ship's masthead.2. A representation of a ribbon or scroll bearing an inscription.",
+        "1. A narrow forked flag or streamer attached to a staff or lance or flown from a ships masthead.2. A representation of a ribbon or scroll bearing an inscription.",
       Barron4841: "",
     },
     {
@@ -26568,7 +26568,7 @@ const WordsJson = [
     {
       word: "[blatant versus flagrant]",
       definition:
-        "Blatant refers to anything that is offensive, notorious, or shocking, especially in an obvious or conspicuous way. Something that is blatant is often obtrusive in a crass manner - and blatant can be used of persons and things. Flagrant refers to anything that is evil or wrong, a willful or glaring violation of a promise or flouting of law or morality. A flagrant offense or error is so bad that it cannot escape notice. Flagrant is definitely the stronger term. Blatant was purportedly created by the English poet Spenser; flagrant derives from an Aryan word meaning 'to blaze' and its original meaning was 'blazing, burning, flaming'. Examples are: He blatantly lied about having permission to leave the school. / It was a flagrant violation of human rights.",
+        "Blatant refers to anything that is offensive, notorious, or shocking, especially in an obvious or conspicuous way. Something that is blatant is often obtrusive in a crass manner - and blatant can be used of persons and things. Flagrant refers to anything that is evil or wrong, a willful or glaring violation of a promise or flouting of law or morality. A flagrant offense or error is so bad that it cannot escape notice. Flagrant is definitely the stronger term. Blatant was purportedly created by the English poet Spenser; flagrant derives from an Aryan word meaning to blaze and its original meaning was blazing, burning, flaming. Examples are: He blatantly lied about having permission to leave the school. / It was a flagrant violation of human rights.",
       Barron4841: "",
     },
     {
@@ -26607,7 +26607,7 @@ const WordsJson = [
     {
       word: "chatoyant",
       definition:
-        "ADJECTIVE:Having a changeable luster.NOUN:A chatoyant stone or gemstone, such as the cat's-eye.",
+        "ADJECTIVE:Having a changeable luster.NOUN:A chatoyant stone or gemstone, such as the cats-eye.",
       Barron4841: "",
     },
     {
@@ -26688,7 +26688,7 @@ const WordsJson = [
     {
       word: "coxcomb",
       definition:
-        "1. A conceited dandy; a fop.2. Obsolete A jester's cap; a cockscomb.",
+        "1. A conceited dandy; a fop.2. Obsolete A jesters cap; a cockscomb.",
       Barron4841: "",
     },
     {
@@ -26773,7 +26773,7 @@ const WordsJson = [
     {
       word: "desinence",
       definition:
-        "A grammatical ending; an inflection.   (an inflectional suffix, ex: the 's' in 'girls')",
+        "A grammatical ending; an inflection.   (an inflectional suffix, ex: the s in girls)",
       Barron4841: "",
     },
     {
@@ -26825,13 +26825,13 @@ const WordsJson = [
     {
       word: "divaricate",
       definition:
-        "intr. verb:To diverge at a wide angle; spread apart.adj:1.   (Biology) Branching or spreading widely from a point or axis, as branches or on an insect's wings; diverging.2. Relating to a separation of two bones normally adjacent or attached but not located in a joint; distatic.",
+        "intr. verb:To diverge at a wide angle; spread apart.adj:1.   (Biology) Branching or spreading widely from a point or axis, as branches or on an insects wings; diverging.2. Relating to a separation of two bones normally adjacent or attached but not located in a joint; distatic.",
       Barron4841: "",
     },
     {
       word: "sesquipedalian",
       definition:
-        '"adj.1.   (of a word) Polysyllabic; long: ""sesquipedalian surnames"".2. Characterized by long words; long-winded."',
+        "adj.1.   (of a word) Polysyllabic; long: sesquipedalian surnames.2. Characterized by long words; long-winded.",
       Barron4841: "",
     },
     {
@@ -26969,7 +26969,7 @@ const WordsJson = [
     {
       word: "flagitious",
       definition:
-        '"1. Characterized by extremely brutal or cruel crimes; vicious.2. Infamous; scandalous: ""That remorseless government persisted in its flagitious project""   (Robert Southey)."',
+        "1. Characterized by extremely brutal or cruel crimes; vicious.2. Infamous; scandalous: That remorseless government persisted in its flagitious project   (Robert Southey).",
       Barron4841: "",
     },
     {
@@ -26986,13 +26986,13 @@ const WordsJson = [
     {
       word: "formication",
       definition:
-        '"medical term for a sensation that resembles that of insects crawling   (tactile hallucination) on   (or under) the skin. It is one specific form of a set of sensations known as paresthesia, which also include the more common prickling, tingling sensation of ""pins and needles""."',
+        "medical term for a sensation that resembles that of insects crawling   (tactile hallucination) on   (or under) the skin. It is one specific form of a set of sensations known as paresthesia, which also include the more common prickling, tingling sensation of pins and needles.",
       Barron4841: "",
     },
     {
       word: "paresthesia",
       definition:
-        "sensation of tickling, tingling, burning, pricking, or numbness of a person's skin with no apparent long-term physical effect. It is more generally known as the feeling of pins and needles or of a limb falling asleep.",
+        "sensation of tickling, tingling, burning, pricking, or numbness of a persons skin with no apparent long-term physical effect. It is more generally known as the feeling of pins and needles or of a limb falling asleep.",
       Barron4841: "",
     },
     {
@@ -27030,7 +27030,7 @@ const WordsJson = [
     {
       word: "fraktur",
       definition:
-        "A style of black letter formerly used in German manuscripts and printing.  So-called because the script's form is angular and broken up, compared to a smoothly curved typeface.",
+        "A style of black letter formerly used in German manuscripts and printing.  So-called because the scripts form is angular and broken up, compared to a smoothly curved typeface.",
       Barron4841: "",
     },
     {
@@ -27116,7 +27116,7 @@ const WordsJson = [
     {
       word: "hypnagogic   (hypnogogic)",
       definition:
-        '"adj.1. Inducing sleep; soporific.2. Of, relating to, or occurring in the state of intermediate consciousness preceding sleep: ""hypnagogic hallucinations."""',
+        "adj.1. Inducing sleep; soporific.2. Of, relating to, or occurring in the state of intermediate consciousness preceding sleep: hypnagogic hallucinations.",
       Barron4841: "",
     },
     {
@@ -27144,7 +27144,7 @@ const WordsJson = [
     {
       word: "imperforate",
       definition:
-        '"adj:1. Having no opening; not perforated.2. Not separated by rows of perforations: imperforate sheets of stamps.3.   (Medicine) Lacking a normal opening: ""an imperforate anus."""',
+        "adj:1. Having no opening; not perforated.2. Not separated by rows of perforations: imperforate sheets of stamps.3.   (Medicine) Lacking a normal opening: an imperforate anus.",
       Barron4841: "",
     },
     {
@@ -27156,7 +27156,7 @@ const WordsJson = [
     {
       word: "indurate",
       definition:
-        '"verb1. To make hard; harden: soil that had been indurated by extremes of climate.2. To inure, as to hardship or ridicule.3. To make callous or obdurate: ""It is the curse of revolutionary calamities to indurate the heart""   (Helen Maria Williams).adj:Hardened; obstinate; unfeeling."',
+        "verb1. To make hard; harden: soil that had been indurated by extremes of climate.2. To inure, as to hardship or ridicule.3. To make callous or obdurate: It is the curse of revolutionary calamities to indurate the heart   (Helen Maria Williams).adj:Hardened; obstinate; unfeeling.",
       Barron4841: "",
     },
     {
@@ -27219,7 +27219,7 @@ const WordsJson = [
     {
       word: "lordosis",
       definition:
-        "An abnormal forward curvature of the spine in the lumbar region.From Greek 'lordos': 'bent backward'",
+        "An abnormal forward curvature of the spine in the lumbar region.From Greek lordos: bent backward",
       Barron4841: "",
     },
     {
@@ -27241,7 +27241,7 @@ const WordsJson = [
     {
       word: "maieutic",
       definition:
-        '"Of or relating to the aspect of the Socratic method that induces a respondent to formulate latent concepts through a dialectic or logical sequence of questions.Noun: MaieuticsA pedagogical method based on the idea that the truth is latent in the mind of every human being due to innate reason but has to be ""given birth"" by answering intelligently proposed questions   (or problems)."',
+        "Of or relating to the aspect of the Socratic method that induces a respondent to formulate latent concepts through a dialectic or logical sequence of questions.Noun: MaieuticsA pedagogical method based on the idea that the truth is latent in the mind of every human being due to innate reason but has to be given birth by answering intelligently proposed questions   (or problems).",
       Barron4841: "",
     },
     {
@@ -27280,7 +27280,7 @@ const WordsJson = [
     },
     {
       word: "mavourneen",
-      definition: "  (irish) 'My Darling'",
+      definition: "  (irish) My Darling",
       Barron4841: "",
     },
     {
@@ -27347,13 +27347,13 @@ const WordsJson = [
     {
       word: "monitory",
       definition:
-        '"adj. Conveying an admonition or a warning: ""a monitory glance."""',
+        "adj. Conveying an admonition or a warning: a monitory glance.",
       Barron4841: "",
     },
     {
       word: "monody",
       definition:
-        "1. An ode for one voice or actor, as in Greek drama.2. A poem in which the poet or speaker mourns another's death.",
+        "1. An ode for one voice or actor, as in Greek drama.2. A poem in which the poet or speaker mourns anothers death.",
       Barron4841: "",
     },
     {
@@ -27475,7 +27475,7 @@ const WordsJson = [
     {
       word: "procrustean",
       definition:
-        "marked by arbitrary often ruthless disregard of individual differences or special circumstances  (Greek mythology) Procrustes was a rogue smith that invited travelers to spend the night, sleeping on an iron bed.  Procustes would use his smith's hammer to make the unwitting guest 'fit' the iron bed.",
+        "marked by arbitrary often ruthless disregard of individual differences or special circumstances  (Greek mythology) Procrustes was a rogue smith that invited travelers to spend the night, sleeping on an iron bed.  Procustes would use his smiths hammer to make the unwitting guest fit the iron bed.",
       Barron4841: "",
     },
     {
@@ -27510,7 +27510,7 @@ const WordsJson = [
     {
       word: "periphrastic",
       definition:
-        "adj.1. Having the nature of or characterized by periphrasis.2.   (Grammar) Constructed by using an auxiliary word rather than an inflected form; for example, of father is the periphrastic possessive case of father but father's is the inflected possessive case, and did say is the periphrastic past tense of say but said is the inflected past tense.",
+        "adj.1. Having the nature of or characterized by periphrasis.2.   (Grammar) Constructed by using an auxiliary word rather than an inflected form; for example, of father is the periphrastic possessive case of father but fathers is the inflected possessive case, and did say is the periphrastic past tense of say but said is the inflected past tense.",
       Barron4841: "",
     },
     {
@@ -27580,7 +27580,7 @@ const WordsJson = [
     {
       word: "plethoric",
       definition:
-        '"1. Excessive in quantity; superabundant: ""this successful industry of England, with its plethoric wealth""   (Thomas Carlyle).2. Excessive in style; turgid: plethoric prose."',
+        "1. Excessive in quantity; superabundant: this successful industry of England, with its plethoric wealth   (Thomas Carlyle).2. Excessive in style; turgid: plethoric prose.",
       Barron4841: "",
     },
     {
@@ -27633,13 +27633,13 @@ const WordsJson = [
     {
       word: "pronate",
       definition:
-        "1. A. To turn or rotate   (the hand or forearm) so that the palm faces down or back.    B. To turn or rotate   (the foot) by abduction and eversion so that the inner edge of the sole bears the body's weight.2. To place in a prone position.",
+        "1. A. To turn or rotate   (the hand or forearm) so that the palm faces down or back.    B. To turn or rotate   (the foot) by abduction and eversion so that the inner edge of the sole bears the bodys weight.2. To place in a prone position.",
       Barron4841: "",
     },
     {
       word: "proptosis",
       definition:
-        '"Forward displacement of an organ, especially an eyeball.    (""Eye-popping"")"',
+        "Forward displacement of an organ, especially an eyeball.    (Eye-popping)",
       Barron4841: "",
     },
     {
@@ -27678,7 +27678,7 @@ const WordsJson = [
     {
       word: "rebarbative",
       definition:
-        '"Tending to irritate; repellent: ""He became rebarbative, prickly, spiteful""   (Robert Craft)."',
+        "Tending to irritate; repellent: He became rebarbative, prickly, spiteful   (Robert Craft).",
       Barron4841: "",
     },
     {
@@ -27695,7 +27695,7 @@ const WordsJson = [
     {
       word: "quondam",
       definition:
-        '"adj.:That once was; former: ""the quondam drunkard, now perfectly sober""   (Bret Harte)."',
+        "adj.:That once was; former: the quondam drunkard, now perfectly sober   (Bret Harte).",
       Barron4841: "",
     },
     {
@@ -27711,7 +27711,7 @@ const WordsJson = [
     {
       word: "ruth",
       definition:
-        "1. Compassion or pity for another.2. Sorrow or misery about one's own misdeeds or flaws.",
+        "1. Compassion or pity for another.2. Sorrow or misery about ones own misdeeds or flaws.",
       Barron4841: "",
     },
     {
@@ -28008,7 +28008,7 @@ const WordsJson = [
     {
       word: "tontine",
       definition:
-        "1. An investment plan in which participants buy shares in a common fund and receive an annuity that increases every time a participant dies, with the entire fund going to the final survivor or to those who survive after a specified time.2. Each member's share of a tontine.3. The subscribers to a tontine.",
+        "1. An investment plan in which participants buy shares in a common fund and receive an annuity that increases every time a participant dies, with the entire fund going to the final survivor or to those who survive after a specified time.2. Each members share of a tontine.3. The subscribers to a tontine.",
       Barron4841: "",
     },
     {
@@ -28055,7 +28055,7 @@ const WordsJson = [
     {
       word: "viviparous",
       definition:
-        "Giving birth to living offspring that develop within the mother's body. Most mammals and some other animals are viviparous.",
+        "Giving birth to living offspring that develop within the mothers body. Most mammals and some other animals are viviparous.",
       Barron4841: "",
     },
     {
@@ -28073,7 +28073,7 @@ const WordsJson = [
     {
       word: "viva voce",
       definition:
-        '"By word of mouth: ""a report submitted viva voce; a viva voce examination."""',
+        "By word of mouth: a report submitted viva voce; a viva voce examination.",
       Barron4841: "",
     },
     {
@@ -28120,13 +28120,13 @@ const WordsJson = [
     {
       word: "sui generis",
       definition:
-        '"uniqueLatin - ""of its own kind/genus"", ""unique in characteristics"""',
+        "uniqueLatin - of its own kind/genus, unique in characteristics",
       Barron4841: "",
     },
     {
       word: "counterfactual",
       definition:
-        "contrary to fact[history] - form of historiography exploring what if's[psychology] counterfactual thinking - tendency for people to imagine alternatives to reality - what if?[grammar] counterfactual conditional - conditional statement - what would be the case if an antecedent were true",
+        "contrary to fact[history] - form of historiography exploring what ifs[psychology] counterfactual thinking - tendency for people to imagine alternatives to reality - what if?[grammar] counterfactual conditional - conditional statement - what would be the case if an antecedent were true",
       Barron4841:"",
     },
     {
@@ -28141,7 +28141,7 @@ const WordsJson = [
     },
     {
       word: "vegete",
-      definition: "lively, active, vigorousfrom latin 'vegere'   (to enliven)",
+      definition: "lively, active, vigorousfrom latin vegere   (to enliven)",
       Barron4841: "",
     },
     {
@@ -28152,7 +28152,7 @@ const WordsJson = [
     {
       word: "disputation",
       definition:
-        "1.the action of disputing : verbal controversy <continuous disputation between them> <ideological disputations>2. an academic exercise in oral defense of a thesis by formal logic",
+        "1.the action of disputing : verbal controversy continuous disputation between them ideological disputations 2. an academic exercise in oral defense of a thesis by formal logic",
       Barron4841: "",
     },
     {
@@ -28176,7 +28176,7 @@ const WordsJson = [
     {
       word: "Graphomania",
       definition:
-        '"an obssessive impulse to writealso known as  ""scribomania"""',
+        "an obssessive impulse to writealso known as scribomania",
       Barron4841: "",
     },
     {
@@ -28194,7 +28194,7 @@ const WordsJson = [
     {
       word: "sclerotic",
       definition:
-        '"1. Becoming rigid and unresponsive; losing the ability to adapt: ""sclerotic management"".2. Having sclerosis"',
+        "1. Becoming rigid and unresponsive; losing the ability to adapt: sclerotic management.2. Having sclerosis",
       Barron4841: "",
     },
     {
@@ -28224,7 +28224,7 @@ const WordsJson = [
     {
       word: "pococurante",
       definition:
-        "noun: A careless, indifferent, or nonchalant person.adj.: Careless, indifferent, nonchalant.etymology: probably via the name of Seigneur Pococurante, a fictional apathetic Venetian senator in Voltaire's Candide   (1759)",
+        "noun: A careless, indifferent, or nonchalant person.adj.: Careless, indifferent, nonchalant.etymology: probably via the name of Seigneur Pococurante, a fictional apathetic Venetian senator in Voltaires Candide   (1759)",
       Barron4841: "",
     },
     {
@@ -28260,7 +28260,7 @@ const WordsJson = [
     {
       word: "pudeur",
       definition:
-        '"noun: A sense of shame or embarrassment; bashfulness, modesty, or reticenceS. Rushdie, ""Ground beneath her Feet""   (2000) xiv. 435 Their band,..the supposed shock troops of the new wave, fizzled in the face of American pudeur and ended up fatally shooting each other."',
+        "noun: A sense of shame or embarrassment; bashfulness, modesty, or reticenceS. Rushdie, Ground beneath her Feet   (2000) xiv. 435 Their band,..the supposed shock troops of the new wave, fizzled in the face of American pudeur and ended up fatally shooting each other.",
       Barron4841: "",
     },
     {
@@ -28284,7 +28284,7 @@ const WordsJson = [
     {
       word: "merry-andrew",
       definition:
-        "n.  A person who entertains people with antics and buffoonery; a clown; a mountebank's assistant. adj.  That is or resembles a merry-andrew; characteristic of a merry-andrew; foolish.probably from the performances of a particular entertainer whose persona was that of a fool",
+        "n.  A person who entertains people with antics and buffoonery; a clown; a mountebanks assistant. adj.  That is or resembles a merry-andrew; characteristic of a merry-andrew; foolish.probably from the performances of a particular entertainer whose persona was that of a fool",
       Barron4841: "",
     },
     {
@@ -28295,7 +28295,7 @@ const WordsJson = [
     {
       word: "concinnity   (kuhn-SIN-i-tee)",
       definition:
-        '"noun: A harmonious arrangement of various parts""There was a moment of inner peace in which belief and doubt merged into a strangely comforting concinnity."""',
+        "noun: A harmonious arrangement of various partsThere was a moment of inner peace in which belief and doubt merged into a strangely comforting concinnity.",
       Barron4841: "",
     },
     {
@@ -28377,7 +28377,7 @@ const WordsJson = [
     {
       word: "gash",
       definition:
-        "Talk, esp. when foolish, inconsequential, or insolent; prattle, gossip. Also in to set up one's gash: to talk, esp. insolently.  (british colloquial)",
+        "Talk, esp. when foolish, inconsequential, or insolent; prattle, gossip. Also in to set up ones gash: to talk, esp. insolently.  (british colloquial)",
       Barron4841: "",
     },
     {
@@ -28405,7 +28405,7 @@ const WordsJson = [
     {
       word: "wakerife",
       definition:
-        "adjective: Wakeful; alert.If you're still wakerife let me suggest another, possibly chastening, exercise in memory.",
+        "adjective: Wakeful; alert.If youre still wakerife let me suggest another, possibly chastening, exercise in memory.",
       Barron4841: "",
     },
     {
@@ -28457,7 +28457,7 @@ const WordsJson = [
     {
       word: "archimandrate",
       definition:
-        "Originally referred to a superior abbot whom a bishop appointed to supervise several 'ordinary' abbots   (each styled hegumenos) and monasteries, or to the abbot of some especially great and important monastery. The title is also used as one purely of honour, with no connection to any actual monastery, and is bestowed on clergy as a mark of respect or gratitude for service to the Church.",
+        "Originally referred to a superior abbot whom a bishop appointed to supervise several ordinary abbots   (each styled hegumenos) and monasteries, or to the abbot of some especially great and important monastery. The title is also used as one purely of honour, with no connection to any actual monastery, and is bestowed on clergy as a mark of respect or gratitude for service to the Church.",
       Barron4841: "",
     },
     {
@@ -28479,13 +28479,13 @@ const WordsJson = [
     },
     {
       word: "étrenne",
-      definition: "n. A New Year's gift; a Christmas box, gift.",
+      definition: "n. A New Years gift; a Christmas box, gift.",
       Barron4841: "",
     },
     {
       word: "mene mene tekel upharsin",
       definition:
-        " noun   (phrase): An instance of the writing of ‘mene mene tekel upharsin’;   (allusively) a sign or warning of impending disaster, an obscure omen.   (similar to 'the writing on the wall').    etymology: The phrase is an elaborate piece of wordplay, relying on the fact that each word can also denote a different coin.  The words written by a bodiless hand on the wall at Belshazzar's feast   (as recounted in the biblical Book of Daniel) ",
+        " noun   (phrase): An instance of the writing of ‘mene mene tekel upharsin’;   (allusively) a sign or warning of impending disaster, an obscure omen.   (similar to the writing on the wall).    etymology: The phrase is an elaborate piece of wordplay, relying on the fact that each word can also denote a different coin.  The words written by a bodiless hand on the wall at Belshazzars feast   (as recounted in the biblical Book of Daniel) ",
       Barron4841: "",
     },
     {
@@ -28512,13 +28512,13 @@ const WordsJson = [
     {
       word: "praxis",
       definition:
-        '"n. 1.) Practice, as opposed to the theory. 2.) Accepted praxis or custom  3.) A set of practice exercises.    ""The contradiction between the declared intent and the actual praxis causes a clash."" "',
+        "n. 1.) Practice, as opposed to the theory. 2.) Accepted praxis or custom  3.) A set of practice exercises.    The contradiction between the declared intent and the actual praxis causes a clash. ",
       Barron4841: "",
     },
     {
-      word: '"<i style=""font-family: sans-serif; font-size: 13px; line-height: 19.1875px;""><b>Sine qua non</b></i>"',
+      word: "Sine qua non",
       definition:
-        '"""without which not"" something absolutely indispensable or essential "',
+        "without which not something absolutely indispensable or essential ",
       Barron4841: "latin",
     },
     {
@@ -28624,7 +28624,7 @@ const WordsJson = [
     {
       word: "psychopomp",
       definition:
-        "noun. A mythical conductor or guide of souls to the place of the dead    (Charon, Hermes, Anubis)    Also in extended use. In analytical psychology:   (Jung's term for) the anima or animus, regarded as the link between the ego and the unconscious. ",
+        "noun. A mythical conductor or guide of souls to the place of the dead    (Charon, Hermes, Anubis)    Also in extended use. In analytical psychology:   (Jungs term for) the anima or animus, regarded as the link between the ego and the unconscious. ",
       Barron4841: "",
     },
     {
@@ -28660,13 +28660,13 @@ const WordsJson = [
     {
       word: "apoplectic",
       definition:
-        '"Adjective  1.) Overcome with anger; extremely indignant.   2.) Relating to or denoting apoplexy   (stroke): ""an apoplectic attack"". "',
+        "Adjective  1.) Overcome with anger; extremely indignant.   2.) Relating to or denoting apoplexy   (stroke): an apoplectic attack. ",
       Barron4841: "",
     },
     {
       word: "caveat emptor",
       definition:
-        '" let the buyer beware   a principle in commerce: without a warranty the buyer takes the risk     (from caveat, ""may he beware"", the subjunctive of cavere, ""to beware"" + emptor, ""buyer"") "',
+        " let the buyer beware   a principle in commerce: without a warranty the buyer takes the risk     (from caveat, may he beware, the subjunctive of cavere, to beware + emptor, buyer) ",
       Barron4841: "latin",
     },
     {
@@ -28689,7 +28689,7 @@ const WordsJson = [
     {
       word: "Collins",
       definition:
-        "noun. A letter of thanks for entertainment or hospitality, sent by a departed guest; a ‘bread-and-butter’ letter    etymology:   the name of a character, William Collins, in Jane Austen's Pride &amp; Prejudice   (ch. xxii) ",
+        "noun. A letter of thanks for entertainment or hospitality, sent by a departed guest; a ‘bread-and-butter’ letter    etymology:   the name of a character, William Collins, in Jane Austens Pride &amp; Prejudice   (ch. xxii) ",
       Barron4841: "",
     },
     {
@@ -28753,19 +28753,17 @@ const WordsJson = [
     {
       word: "schadenfreude",
       definition:
-      "noun: Pleasure derived from another's misfortune.</span>",
+      "noun: Pleasure derived from anothers misfortune.",
       Barron4841: "german",
     },
     {
       word: "crufty",
-      definition:
-        '"adj. <span style=""color: rgb  (34, 34, 34); font-family: arial, sans-serif; font-size: 13px; line-height: normal;"">Of software: poorly designed, esp. unnecessarily or unintentionally complex; containing redundant code.</span> "',
+      definition:"adj. Of software: poorly designed, esp. unnecessarily or unintentionally complex; containing redundant code.",
       Barron4841: "german",
     },
     {
-      word: '"<h3 style=""color: rgb  (34, 34, 34); font-family: arial, sans-serif; line-height: normal;"">polylemma</h3>"',
-      definition:
-        '"<i style=""color: rgb  (34, 34, 34); font-family: arial, sans-serif; font-size: 13px; line-height: normal;"">noun</i><span style=""color: rgb  (34, 34, 34); font-family: arial, sans-serif; font-size: 13px; line-height: normal;"">: A choice involving multiple undesirable options.</span>"',
+      word: "polylemma",
+      definition:" A choice involving multiple undesirable options.",
       Barron4841: "",
     },
     {
@@ -28795,13 +28793,12 @@ const WordsJson = [
     {
       word: "agelast",
       definition:
-        "Someone who never laughs. [From Greek agelastos   (not laughing), ultimately from gelaein   (to laugh).]    The opposite of an agelast is an abderian person, one given to excessive or incessant laughter. ",
+        "Someone who never laughs. [From Greek agelastos   (not laughing), ultimately from gelaein   (to laugh).    The opposite of an agelast is an abderian person, one given to excessive or incessant laughter. ",
       Barron4841: "",
     },
     {
       word: "abderian",
-      definition:
-        '"<span style=""font-family: verdana, arial, sans-serif; font-size: 15px; line-height: normal;"">Given to excessive or incessant laughter.</span> <span style=""font-family: verdana, arial, sans-serif; font-size: 15px; line-height: normal;"">antonym: agelast</span>  <span style=""font-family: verdana, arial, sans-serif; font-size: 15px; line-height: normal;""></span>  <span style=""font-family: verdana, arial, sans-serif; font-size: 15px; line-height: normal;"">[After Abdera, in ancient Thrace   (present day Bulgaria, Turkey, and Greece), the birth place of Democritus, the Laughing Philosopher. </span><span style=""font-family: verdana, arial, sans-serif; font-size: 15px; line-height: normal;""></span> "',
+      definition:"Given to excessive or incessant laughter.",
       Barron4841: "",
     },
     {
@@ -28813,7 +28810,7 @@ const WordsJson = [
     {
       word: "vitiate",
       definition:
-        '"Verb: Spoil or impair the quality or efficiency of: ""programs vitiated by red tape"".  Destroy or impair the legal validity of. "',
+        "Verb: Spoil or impair the quality or efficiency of: programs vitiated by red tape.  Destroy or impair the legal validity of. ",
       Barron4841: "",
     },
     {
@@ -28867,7 +28864,7 @@ const WordsJson = [
     {
       word: "eggcorn",
       definition:
-        '"noun: An erroneous alteration of a word or phrase, by replacing an original word with a similar sounding word, such that the new word or phrase also makes a kind of sense. For example: ex-patriot instead of expatriate and mating name instead of maiden name.   ex: baited breath for bated breath,  whole scale for wholesale Coined by linguist Geoffrey Pullum   (b. 1945) in 2003. From the substitution of the word acorn with eggcorn. Earliest documented use as a name for this phenomenon is from 2003, though the term eggcorn has been found going back as far as 1844, as egg corn bread for acorn bread.  "',
+        "noun: An erroneous alteration of a word or phrase, by replacing an original word with a similar sounding word, such that the new word or phrase also makes a kind of sense. For example: ex-patriot instead of expatriate and mating name instead of maiden name.   ex: baited breath for bated breath,  whole scale for wholesale Coined by linguist Geoffrey Pullum   (b. 1945) in 2003. From the substitution of the word acorn with eggcorn. Earliest documented use as a name for this phenomenon is from 2003, though the term eggcorn has been found going back as far as 1844, as egg corn bread for acorn bread.  ",
       Barron4841: "",
     },
     {
@@ -28921,7 +28918,7 @@ const WordsJson = [
     {
       word: "aglyphous",
       definition:
-        "adj. Of a snake's tooth: solid and unspecialized, without a groove for venom.",
+        "adj. Of a snakes tooth: solid and unspecialized, without a groove for venom.",
       Barron4841: "",
     },
     {
@@ -28993,7 +28990,7 @@ const WordsJson = [
     {
       word: "extraterritoriality",
       definition:
-        "noun:1. Exemption from the jurisdiction of local law, for example, as for diplomats.2. The applicability of a state's laws outside its territory. ",
+        "noun:1. Exemption from the jurisdiction of local law, for example, as for diplomats.2. The applicability of a states laws outside its territory. ",
       Barron4841: "",
     },
     {
@@ -29004,7 +29001,7 @@ const WordsJson = [
     {
       word: "bromide",
       definition:
-        "1. A tired or meaningless remark.2. A tiresome or boring person. In earlier times, potassium bromide used to be taken as a sedative. So any statement that was intended to be soothing   (Don't worry, everything will be OK.) acquired the name bromide. Eventually any commonplace or tired remark and anyone uttering such remarks came to be known as a bromide.The term was popularized in the title of Gelett Burgess's 1906 book Are You a Bromide? It was to promote this book that Burgess coined the term blurb. ",
+        "1. A tired or meaningless remark.2. A tiresome or boring person. In earlier times, potassium bromide used to be taken as a sedative. So any statement that was intended to be soothing   (Dont worry, everything will be OK.) acquired the name bromide. Eventually any commonplace or tired remark and anyone uttering such remarks came to be known as a bromide.The term was popularized in the title of Gelett Burgesss 1906 book Are You a Bromide? It was to promote this book that Burgess coined the term blurb. ",
       Barron4841:"",
     },
     {
@@ -29032,19 +29029,19 @@ const WordsJson = [
     {
       word: "per curiam",
       definition:
-        '"In law, a per curiam decision   (or opinion) is a ruling issued by an appellate court of multiple judges in which the decision rendered is made by the court   (or at least, a majority of the court) acting collectively and anonymously. In contrast to regular opinions, a per curiam does not list the individual judge responsible for authoring the decision, but minority dissenting and concurring decisions are signed.Per curiams are not the only type of decision that can reflect the opinion of the court. Other types of decisions can also reflect the opinion of the entire court, such as unanimous decisions, in which the opinion of the court is expressed with an author listed.The Latin term per curiam literally means ""by the court""."',
+        "In law, a per curiam decision   (or opinion) is a ruling issued by an appellate court of multiple judges in which the decision rendered is made by the court   (or at least, a majority of the court) acting collectively and anonymously. In contrast to regular opinions, a per curiam does not list the individual judge responsible for authoring the decision, but minority dissenting and concurring decisions are signed.Per curiams are not the only type of decision that can reflect the opinion of the court. Other types of decisions can also reflect the opinion of the entire court, such as unanimous decisions, in which the opinion of the court is expressed with an author listed.The Latin term per curiam literally means by the court.",
       Barron4841: "",
     },
     {
       word: "pro forma",
       definition:
-        '"The term pro forma, Latin for ""as a matter of form"" or ""for the sake of form"", is a term applied to practices or documents that are done as a pure formality, perfunctorily, or seek to satisfy the minimum requirements or to conform to a convention or doctrineIn law, pro forma court rulings are intended merely to facilitate the legal process   (to move matters along).Pro forma audiences are used to obey a formal demand. For example, one pro forma audience may be heard for a judge to order the production of a certain proof or to schedule another date."',
+        "The term pro forma, Latin for as a matter of form or for the sake of form, is a term applied to practices or documents that are done as a pure formality, perfunctorily, or seek to satisfy the minimum requirements or to conform to a convention or doctrineIn law, pro forma court rulings are intended merely to facilitate the legal process   (to move matters along).Pro forma audiences are used to obey a formal demand. For example, one pro forma audience may be heard for a judge to order the production of a certain proof or to schedule another date.",
       Barron4841: "latin",
     },
     {
       word: "calends   (kalendae)",
       definition:
-        '"The calends   (Latin: kalendae, ""the called"") were the first days of each month of the Roman calendar. The Romans assigned these calends to the first day of the month, signifying the start of the new moon cycle.According to some ancient or modern proposed etymologies of the word, it was derived from the phrase kalo Iuno Covella or kalo Iuno Novella, meaning respectively ""hollow Juno I call you"" and ""new Juno I call you"", an announcement about the Nones or in proclaiming the new moon that marked the Kalends which the pontiffs made every first day of the month on the Capitoline Hill in the Announcement Hall."',
+        "The calends   (Latin: kalendae, the called) were the first days of each month of the Roman calendar. The Romans assigned these calends to the first day of the month, signifying the start of the new moon cycle.According to some ancient or modern proposed etymologies of the word, it was derived from the phrase kalo Iuno Covella or kalo Iuno Novella, meaning respectively hollow Juno I call you and new Juno I call you, an announcement about the Nones or in proclaiming the new moon that marked the Kalends which the pontiffs made every first day of the month on the Capitoline Hill in the Announcement Hall.",
       Barron4841: "latin",
     },
     {
@@ -29062,7 +29059,7 @@ const WordsJson = [
     {
       word: "certiorari",
       definition:
-        '"a writ of superior court to call up the records of an inferior court or a body acting in a quasi-judicial capacity -  an order by a higher court directing a lower court, tribunal, or public authority to send the record in a given case for review.from the Latin verb certiorare   (""to inform, apprise, show"""',
+        "a writ of superior court to call up the records of an inferior court or a body acting in a quasi-judicial capacity -  an order by a higher court directing a lower court, tribunal, or public authority to send the record in a given case for review.from the Latin verb certiorare   (to inform, apprise, show)",
       Barron4841: "latin, law",
     },
     {
@@ -29080,7 +29077,7 @@ const WordsJson = [
     {
       word: "Aggadah",
       definition:
-        '"<span style=""color: rgb  (34, 34, 34); font-family: arial, sans-serif; font-size: 13px; line-height: normal;"">1. A legend or parable that illustrates a point of the Law in the Talmud; the non-legal element of the Talmud</span> <font color=""#222222"" face=""arial, sans-serif"" size=""2""><span style=""line-height: normal;"">2.   (A book containing) the text recited at the Seder on the first two nights of the Passover, centred around the liberation of the Israelites in Egypt as told in the Book of Exodus. Also occas.: this recital as a ritual.</span></font> "',
+        "1. A legend or parable that illustrates a point of the Law in the Talmud; the non-legal element of the Talmud 2.(A book containing) the text recited at the Seder on the first two nights of the Passover, centred around the liberation of the Israelites in Egypt as told in the Book of Exodus. Also occas.: this recital as a ritual.",
       Barron4841: "Judaism",
     },
     {
@@ -29092,7 +29089,7 @@ const WordsJson = [
     {
       word: "hereditament",
       definition:
-        "noun: Inheritable property.    Hereditament is of two kinds: corporeal and incorporeal. If your grandfather willed you his collection of Superman comics, that would be corporeal hereditament. If he awarded you only the right to read those comics from time to time, it'd be incorporeal hereditament. ",
+        "noun: Inheritable property.    Hereditament is of two kinds: corporeal and incorporeal. If your grandfather willed you his collection of Superman comics, that would be corporeal hereditament. If he awarded you only the right to read those comics from time to time, itd be incorporeal hereditament. ",
       Barron4841: "",
     },
     {
@@ -29225,7 +29222,7 @@ const WordsJson = [
     {
       word: "hermeneutics",
       definition:
-        ". plural but sing or plural in constr : the study of the methodological principles of interpretation   (as of the Bible)    2 : a method or principle of interpretation     The term  hermeneutics</em> , a Latinized version of the Greek  hermeneutice</em> , has been part of common language from the beginning of the 17 th</sup>  century. Nevertheless, its history stretches back to ancient philosophy. Addressing the understanding of religious intuitions, Plato used this term in a number of dialogues, contrasting hermeneutic knowledge to that of  sophia</em> . Religious knowledge is a knowledge of what has been revealed or said and does not, like  sophia</em> , involve knowledge of the truth-value of the utterance. Aristotle carried this use of the term a step further, naming his work on logic and semantics  Peri hermeneias</em> , which was later rendered as  De interpretatione</em>",
+        ". plural but sing or plural in constr : the study of the methodological principles of interpretation   (as of the Bible)    2 : a method or principle of interpretation     The term  hermeneutics , a Latinized version of the Greek  hermeneutice , has been part of common language from the beginning of the 17 th  century. Nevertheless, its history stretches back to ancient philosophy. Addressing the understanding of religious intuitions, Plato used this term in a number of dialogues, contrasting hermeneutic knowledge to that of  sophia. Religious knowledge is a knowledge of what has been revealed or said and does not, like  sophia , involve knowledge of the truth-value of the utterance. Aristotle carried this use of the term a step further, naming his work on logic and semantics  Peri hermeneias , which was later rendered as  De interpretatione",
       Barron4841: "",
     },
     {
@@ -29243,7 +29240,7 @@ const WordsJson = [
     {
       word: "inter arma enim silent leges",
       definition:
-        "Latin phrase meaning For among [times of] arms, the laws fall mute, although it is more popularly rendered as In times of war, the law falls silent.    This maxim was likely first written in these words by Cicero in his published oration Pro Milone, although Cicero's actual wording was Silent enim leges inter arma. Given Cicero's in-depth knowledge of Greek political history, it can be argued that his notion on war and law was inspired by Thucydides's opinion on the violent nature of war and the realist approach in international relations. ",
+        "Latin phrase meaning For among [times of] arms, the laws fall mute, although it is more popularly rendered as In times of war, the law falls silent.    This maxim was likely first written in these words by Cicero in his published oration Pro Milone, although Ciceros actual wording was Silent enim leges inter arma. Given Ciceros in-depth knowledge of Greek political history, it can be argued that his notion on war and law was inspired by Thucydidess opinion on the violent nature of war and the realist approach in international relations. ",
       Barron4841: "Latin, phrases",
     },
     {
@@ -29255,7 +29252,7 @@ const WordsJson = [
     {
       word: "peeping Tom",
       definition:
-        "noun: Someone who gets se_xual pleasure from secretly watching others; voyeur.   From the legend of Lady Godiva who rode unclothed through the streets of Coventry, England to persuade her husband to lower taxes on the people. All the townfolk shuttered their windows, except for a tailor named Tom who couldn't resist and watched. Earliest documented use: 1769. ",
+        "noun: Someone who gets se_xual pleasure from secretly watching others; voyeur.   From the legend of Lady Godiva who rode unclothed through the streets of Coventry, England to persuade her husband to lower taxes on the people. All the townfolk shuttered their windows, except for a tailor named Tom who couldnt resist and watched. Earliest documented use: 1769. ",
       Barron4841: "",
     },
     {
@@ -29278,13 +29275,13 @@ const WordsJson = [
     {
       word: "zampone",
       definition:
-        "In Italian cookery: a pig's foot stuffed with spiced ground pork, then cured and dried",
+        "In Italian cookery: a pigs foot stuffed with spiced ground pork, then cured and dried",
       Barron4841: "",
     },
     {
       word: "doubting Thomas",
       definition:
-        "noun: A person who is habitually doubtful or someone who refuses to believe something until given proof.   etymology: After Saint Thomas, apostle, who doubted Jesus Christ's resurrection according to the Bible. Earliest documented use: 1877. ",
+        "noun: A person who is habitually doubtful or someone who refuses to believe something until given proof.   etymology: After Saint Thomas, apostle, who doubted Jesus Christs resurrection according to the Bible. Earliest documented use: 1877. ",
       Barron4841: "",
     },
     {
