@@ -3,9 +3,11 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
 }
+
 body {
     background-color: #171401;
 }
+
 .background-svg {
     position: absolute;
     top: 0;
@@ -18,8 +20,8 @@ body {
     position: relative;
     z-index: 10;
     display: flex;
-    justify-content:space-between;
-    align-items:normal;
+    justify-content: space-between;
+    align-items: normal;
     max-width: 60vh;
     margin: 0 auto;
     flex-direction: column;
@@ -31,21 +33,25 @@ body {
     border: .5vmin solid #05060f;
     box-shadow: .4rem .4rem #05060f;
 }
-hr{
+
+hr {
     height: 3px;
     background-color: #fa024c;
 }
+
 .App h1 {
     color: #1f10f2;
     font-size: 1.4rem;
     line-height: 1.25;
     font-weight: 700;
-    font-weight:600;
+    font-weight: 600;
     font-family: 'Monoton', cursive;
 }
-.text{
- height: 100%;   
+
+.text {
+    height: 100%;
 }
+
 .randomWord {
     color: #05060f;
     font-size: 1.8rem;
@@ -60,11 +66,13 @@ hr{
     font-size: 1.2rem;
     line-height: 1.25;
     font-weight: 700;
-    overflow:scroll;
+    overflow: scroll;
 }
+
 .word-definition::-webkit-scrollbar {
     display: none;
 }
+
 button {
     display: flex;
     align-items: center;
@@ -121,16 +129,57 @@ button:hover .play {
     transform: translateX(200%);
     transition-delay: 300ms;
 }
-.submit{
-    display:flex;
+
+.submit {
+    display: flex;
     justify-content: space-between;
 }
-a{
-    color: #05060f;    
+
+.github-link {
+    color: #05060f;
     font-size: 1.7rem;
 }
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 50%;
+    max-width: 570px;
+    padding: 20px;
+    z-index: 10;
+    text-align: center;
+}
+
+.authorname {
+    background: rgba(255, 255, 255, 0.605);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border-radius: 50px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    color: #061357;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.author a{
+    font-size: 10px;
+    color: #011ef8;
+    font-weight: bold;
+}
+a {
+    text-decoration: none;
+}
+.author:hover{
+    cursor: pointer;
+    color: #3636f2;
+}
+
 @media screen and (max-width:900px) {
-    .App h1{
+    .App h1 {
         font-size: 20px;
     }
 }
